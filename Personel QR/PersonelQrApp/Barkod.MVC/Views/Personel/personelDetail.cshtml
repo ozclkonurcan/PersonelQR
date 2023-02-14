@@ -1,0 +1,44 @@
+﻿
+@{
+    ViewBag.Title = "personelDetail";
+}
+
+<div class="row">
+    <div class="col-md-2"><h2 id="bannerHeader">Personel Detay</h2></div>
+    <div class="col-md-10 ">
+        <button id="printPageBtn" class="btn btn-sm btn-primary float-right" onclick="printPage()">Yazdır</button>
+        <button id="personelPut" class="btn btn-sm btn-info mr-3 float-right">Güncelle</button>
+    </div>
+</div>
+
+    <div class="d-flex align-items-center mb-7">
+        <!--begin::Pic-->
+        <div class="flex-shrink-0 mr-4 mt-lg-0 mt-3">
+            <img src="@ViewBag.QRCodeImage" alt="Personel QR Code" style="height:125px; width:125px;" />
+        </div>
+        <!--end::Pic-->
+        <!--begin::Title-->
+        <div class="d-flex flex-column">
+            <a href="#" class="text-dark font-weight-bold text-hover-primary font-size-h4 mb-0">@ViewBag.PerList.ad_soyad</a>
+            <span class="text-muted font-weight-bold">@ViewBag.PerList.unvan</span>
+        </div>
+        <!--end::Title-->
+    </div>
+
+
+
+
+
+
+
+<script type="text/javascript">
+    function printPage() {
+        var printHead = document.getElementById("bannerHeader");
+        var printBtn = document.getElementById("printPageBtn");
+        printBtn.style.visibility = 'hidden';
+        printHead.style.visibility = 'hidden';
+        window.print();
+        printBtn.style.visibility = 'visible';
+        printHead.style.visibility = 'visible';
+    }
+</script>

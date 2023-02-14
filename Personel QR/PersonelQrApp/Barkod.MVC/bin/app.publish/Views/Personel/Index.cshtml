@@ -1,0 +1,1007 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+<style>
+    #headerTitle {
+        position: absolute;
+        top: 0;
+        left: 0;
+        border-top-left-radius: 0;
+        border-top-right-radius: 0;
+        border-bottom-left-radius: 0;
+        border-bottom-right-radius: 50px;
+        background-color: #ad9c65;
+        color: #fff;
+        font-size: 12px;
+        text-transform: uppercase;
+        letter-spacing: 3px;
+    }
+
+    .tableSearchHeader {
+        position: relative;
+    }
+
+    .tableSearch {
+        display: flex;
+        justify-content: end;
+    }
+
+    .tablePageNumber {
+        display: flex;
+        justify-content: start;
+    }
+
+    .dataTables_wrapper {
+    }
+
+        .dataTables_wrapper .dataTables_filter {
+        }
+
+
+        .dataTables_wrapper .dataTables_length {
+        }
+
+    div.dataTables_wrapper div.dataTables_filter input {
+        width: 500px;
+        height: 45px;
+    }
+
+    #n11Table_length select {
+        height: 45px;
+    }
+
+    #n11Table_length {
+        display: none;
+    }
+
+    #n11Table_filter {
+        display: none;
+    }
+
+    #ahlPersonelList_length select {
+        display: none;
+    }
+
+    #ahlPersonelList_filter label {
+    }
+</style>
+
+@*<div class="row no-gutters">
+    <div class="col-md-12">
+        <div class="navbar navbar-inverse bg-white navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header" style="height:140px">
+
+                    <img src="~/assets/img/cgLogo.png" alt="Corumgaz_logo" class="img-responsive">
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>*@
+
+
+
+
+<div class="card card-custom mt-10">
+    <div class="card-header flex-wrap border-0 pt-4 pb-0">
+        @*<img src="~/assets/img/cgLogo.png" />*@
+        <h4>Ahlatcı Personel Listesi</h4>
+        <a href="@Url.Action("Logout", "personel")" class="btn btn-sm btn-danger mt-2 mr-2" style="position:absolute;top:0;right:0">
+       
+            <button class="btn btn-sm btn-light-danger disabled" disabled>@Session["kullaniciAdi"]</button>
+        Çıkış Yap</a>
+        @*@Session["kullaniciDurum"]<br />
+        @Session["kullaniciAdi"]*@
+    </div>
+
+
+
+
+
+    <div class="card-body">
+       
+        @*QR WARNİNG SCREEN*@
+        <div hidden class="alert alert-custom alert-light-danger fade show mb-10" role="alert" style="z-index:9999; position:absolute; top:50%;left:50%; transform:translate(-50%,-50%)">
+            <div class="alert-icon">
+                <span class="svg-icon svg-icon-3x svg-icon-danger">
+                    <!--begin::Svg Icon | path:assets/media/svg/icons/Code/Info-circle.svg-->
+                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1">
+                        <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                            <rect x="0" y="0" width="24" height="24"></rect>
+                            <circle fill="#000000" opacity="0.3" cx="12" cy="12" r="10"></circle>
+                            <rect fill="#000000" x="11" y="10" width="2" height="7" rx="1"></rect>
+                            <rect fill="#000000" x="11" y="7" width="2" height="2" rx="1"></rect>
+                        </g>
+                    </svg>
+                    <!--end::Svg Icon-->v
+                </span>
+            </div>
+            <div class="alert-text font-weight-bold">
+                Configure user passwords to expire periodically. Users will need warning that their passwords are going to expire,
+                <br>or they might inadvertently get locked out of the system!
+            </div>
+            <div class="alert-close">
+                <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                    <span aria-hidden="true">
+                        <i class="ki ki-close"></i>
+                    </span>
+                </button>
+            </div>
+        </div>
+        @*QR WARNİNG SCREEN*@
+
+
+        @*Personel Add Canvas*@
+        <div id="kt_quick_cart" hidden class="offcanvas offcanvas-right p-10">
+            <!--begin::Header-->
+            <div class="offcanvas-header d-flex align-items-center justify-content-between pb-7" kt-hidden-height="47" style="">
+                <h4 class="font-weight-bold m-0">Personel Oluştur</h4>
+                <a href="#" class="btn btn-xs btn-icon btn-light btn-hover-primary" id="kt_quick_cart_close">
+                    <i class="ki ki-close icon-xs text-muted"></i>
+                </a>
+            </div>
+            <!--end::Header-->
+            <!--begin::Content-->
+            <div class="offcanvas-content">
+                <form method="post" action="@Url.Action("Print", "Personel")">
+                    @Html.AntiForgeryToken()
+                    <!--begin::Wrapper-->
+                    <div class="offcanvas-wrapper mb-5 scroll-pull scroll ps ps--active-y" style="height: 109px; overflow: hidden;">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="form-group">
+                                    <label class="col-md-12 col-form-label">Personel TC No :</label>
+                                    <input class="form-control form-control-sm form-control-solid" autocomplete="off" type="text" pattern="[0-9]+" title="sadece numara girilir" maxlength="11" name="tc" placeholder="Personel TC No" />
+                                </div>
+                            </div>
+                            <div class="col-md-12">
+                                <div class="form-group">
+                                    <label class="col-md-12 col-form-label">Personel Adı :</label>
+                                    <input class="form-control form-control-solid" name="ad_soyad" placeholder="Personel Ad" />
+                                </div>
+                            </div>
+                            <div class="col-md-12">
+                                <div class="form-group">
+                                    <label class="col-md-12 col-form-label">Ünvan Adı :</label>
+                                    <input class="form-control form-control-solid" name="unvan" placeholder="Ünva Ad" />
+                                </div>
+                            </div>
+                            <div class="col-md-12">
+                                <div class="form-group">
+                                    <label class="col-md-12 col-form-label">Şirket Adı :</label>
+                                    <input class="form-control form-control-solid" name="isyeri" placeholder="Şirket Ad" />
+                                </div>
+                            </div>
+                            <div class="col-md-12">
+                                <div class="form-group">
+                                    <label class="col-md-12 col-form-label">Bölüm Adı :</label>
+                                    <input class="form-control form-control-solid" name="bolum" placeholder="Bölüm Ad" />
+                                </div>
+                            </div>
+                            <div class="col-md-12">
+                                <div class="form-group">
+                                    <label class="col-md-12 col-form-label">İşyeri Adı :</label>
+                                    <input class="form-control form-control-solid" name="sirket" placeholder="İşyeri Ad" />
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                    <!--end::Wrapper-->
+                    <!--begin::Purchase-->
+                    <div class="offcanvas-footer" kt-hidden-height="113" style="">
+
+                        <div class="text-right">
+                            <button type="submit" class="btn btn-primary text-weight-bold">Oluştur</button>
+                        </div>
+                    </div>
+                    <!--end::Purchase-->
+                </form>
+            </div>
+            <!--end::Content-->
+        </div>
+        @*Personel Add Canvas*@
+
+
+        @*Personel Update Modal*@
+        <div class="modal modal-sticky modal-sticky-lg " id="kt_inbox_composes" data-backdrop="false" style="display: none;" aria-hidden="true">
+            <div class="modal-dialog modal-lg" role="document">
+                <div class="modal-content">
+                    <!--begin::Form-->
+                    <form id="kt_inbox_compose_form" method="post" action="@Url.Action("personelPost", "Personel")">
+                        @Html.AntiForgeryToken()
+                        <!--begin::Header-->
+                        <div class="d-flex align-items-center justify-content-between py-5 pl-8 pr-5 border-bottom">
+                            <h5 class="font-weight-bold m-0">Personel Güncelleme</h5>
+                            <div class="d-flex ml-2">
+
+                                <span class="btn btn-clean btn-sm btn-icon" data-dismiss="modal">
+                                    <i class="ki ki-close icon-1x"></i>
+                                </span>
+                            </div>
+                        </div>
+                        <!--end::Header-->
+                        <!--begin::Body-->
+                        <div class="row justify-content-center align-items-center">
+
+                            <input hidden id="personelUpdateID" name="id" />
+                            <div class="col-md-5 mr-2 ml-2 mt-2 mb-2">
+                                <label>Personel TC</label>
+                                <input type="text" pattern="[0-9]+" title="sadece numara girilir" required="required" autocomplete="off" maxlength="11" class="form-control form-control-solid" id="personelUpdateTC" name="tc" placeholder="TC" />
+                            </div>
+                            <div class="col-md-5 mr-2 ml-2 mt-2 mb-2">
+                                <label>Personel Ad Soyad</label>
+                                <input class="form-control form-control-solid" id="personelUpdateAdSoyad" name="ad_soyad" placeholder="Personel Ad Soyad" />
+                            </div>
+
+                            <div class="col-md-5 mr-2 ml-2 mt-2 mb-2">
+
+                                <label>Personel Ünvan</label>
+                                <input class="form-control form-control-solid" id="personelUpdateUnvan" name="unvan" placeholder="Ünvan" />
+                            </div>
+
+                            <div class="col-md-5 mr-2 ml-2 mt-2 mb-2">
+
+                                <label>Personel Şirket Ad</label>
+                                <input class="form-control form-control-solid" id="personelUpdateSirket" name="sirket" placeholder="Şirket Ad" />
+                            </div>
+
+                            <div class="col-md-5 mr-2 ml-2 mt-2 mb-2">
+
+                                <label>Personel Bölüm Ad</label>
+                                <input class="form-control form-control-solid" id="personelUpdateBolum" name="bolum" placeholder="Bölüm Ad" />
+                            </div>
+
+                            <div class="col-md-5 mr-2 ml-2 mt-2 mb-2">
+
+                                <label>Personel İşyeri Ad</label>
+                                <input class="form-control form-control-solid" id="personelUpdateIsyeri" name="isyeri" placeholder="İşyeri Ad" />
+                            </div>
+                        </div>
+
+                        <!--end::Body-->
+                        <!--begin::Footer-->
+                        <div class="d-flex align-items-center justify-content-between float-right py-5 pl-8 pr-5 border-top">
+                            <!--begin::Actions-->
+                            <div class="d-flex align-items-center mr-3">
+                                <!--begin::Send-->
+                                <div class="btn-group mr-4">
+                                    <button class="btn btn-primary font-weight-bold px-6" type="submit">Güncelle</button>
+
+                                </div>
+                            </div>
+                            <!--end::Send-->
+
+
+                        </div>
+                        <!--end::Footer-->
+                    </form>
+                    <!--end::Form-->
+                </div>
+            </div>
+        </div>
+        @*Personel Update Modal*@
+
+        @*Personel Detail Modal*@
+        <div class="modal modal-sticky modal-sticky-lg " id="personelDetailModal" data-backdrop="false" style="display: none;" aria-hidden="true">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <!--begin::Form-->
+                    <!--begin::Header-->
+                    <div class="d-flex align-items-center justify-content-between py-5 pl-8 pr-5 border-bottom">
+                        <div class="card-toolbar">
+                            <ul class="nav nav-pills nav-pills-sm nav-dark-75">
+                                <li class="nav-item">
+                                    <a class="nav-link py-2 px-4 active" data-toggle="tab" href="#kt_tab_pane_11_1">Personel Detay</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link py-2 px-4" data-toggle="tab" href="#kt_tab_pane_11_2">Personel QR Code</a>
+                                </li>
+
+                            </ul>
+                        </div>
+                        <div class="d-flex ml-2">
+                            <span class="btn btn-clean btn-sm btn-icon" data-dismiss="modal">
+                                <i class="ki ki-close icon-1x"></i>
+                            </span>
+
+                        </div>
+                    </div>
+                    <!--end::Header-->
+                    <!--begin::Body-->
+
+                    <div class="tab-content mt-5" id="myTabTables11">
+                        <!--begin::Tap pane-->
+
+
+                        <div class="tab-pane fade active show" id="kt_tab_pane_11_1" role="tabpanel" aria-labelledby="kt_tab_pane_11_1">
+                            <!--begin::Table-->
+
+                            <div class="card-body pt-4">
+
+                                <!--begin::User-->
+                                <div class="d-flex align-items-center">
+
+                                    <div>
+                                        <a class="font-weight-bold font-size-h5 text-dark-75 text-hover-primary" id="personelDetailAdSoyad"></a>
+                                        <div class="text-muted" id="personelDetailUnvan"></div>
+
+                                    </div>
+                                </div>
+                                <!--end::User-->
+                                <!--begin::Contact-->
+                                <div class="pt-8 pb-6">
+                                    <div class="d-flex align-items-center justify-content-between mb-2">
+                                        <span class="font-weight-bold mr-2">TC Kimlik Numarası:</span>
+                                        <a class="text-muted " id="personelDetailTC"></a>
+                                    </div>
+                                    <div class="d-flex align-items-center justify-content-between mb-2">
+                                        <span class="font-weight-bold mr-2">Personelin Şirket Adı:</span>
+                                        <span class="text-muted" id="personelDetailSirket"></span>
+                                    </div>
+                                    <div class="d-flex align-items-center justify-content-between">
+                                        <span class="font-weight-bold mr-2">Personelin Bölüm Adı:</span>
+                                        <span class="text-muted" id="personelDetailBolum"></span>
+                                    </div>
+                                    <div class="d-flex align-items-center justify-content-between">
+                                        <span class="font-weight-bold mr-2">Personelin İşyeri Adı:</span>
+                                        <span class="text-muted" id="personelDetailIsyeri"></span>
+                                    </div>
+                                </div>
+                                <!--end::Contact-->
+
+                            </div>
+                            <!--end::Table-->
+                        </div>
+                        <!--end::Tap pane-->
+                        <!--begin::Tap pane-->
+                        <div class="tab-pane fade" id="kt_tab_pane_11_2" role="tabpanel" aria-labelledby="kt_tab_pane_11_2">
+                            <!--begin::Table-->
+                            <div class="card-body d-flex flex-column" id="qrDetail">
+                                <div class="flex-grow-1 mx-auto" style="position: relative;">
+                                    <img id="personelDetailQr" width="250" height="250" />
+                                </div>
+                                <div class="pt-5">
+                                    @*<p class="text-center font-weight-normal font-size-lg pb-7">
+                                        Notes: Current sprint requires stakeholders
+                                        <br>to approve newly amended policies
+                                    </p>*@
+                                    <a hidden class="btn btn-success btn-shadow-hover font-weight-bolder w-100 py-3" onclick="printQrDetail('qrDetail')">QR Code Yazdır</a>
+                                </div>
+                            </div>
+                            <!--end::Table-->
+                        </div>
+                        <!--end::Tap pane-->
+
+                    </div>
+
+
+
+
+                    <!--end::Body-->
+                    <!--end::Form-->
+                </div>
+            </div>
+        </div>
+        @*Personel Detail Modal*@
+
+
+    <form method="post" action="@Url.Action("Print", "Personel")">
+        <div id="postQRCodeDiv"></div>
+        <button class="btn btn-success mb-2" type="submit" id="convertToQr" disabled>QR Code Dönüştür</button>
+        @* <button class="btn btn-primary mb-2" type="button" id="kt_quick_cart_toggle">Personel Ekle</button>*@
+        <button class="btn btn-primary mb-2" type="button" onclick="window.location.href ='@Url.Action("personelEkle", "Personel")'">Personel Ekle</button>
+        <button class="btn btn-light-primary me-3 float-right mb-2" type="button" data-toggle="modal" data-target="#kt_inbox_compose">Detaylı Filtreleme</button>
+
+        @*<img src="~/assets/img/crmgaz1.png" width="50" height="50" style="position:absolute;top:58%;left:48%; transform:translate(-50%,-50%)" />*@
+        @*<img src="~/assets/img/leaf.png" height="500" width="500" style="position:absolute;top:50%;left:50%;transform:translate(-60%,-50%); " />*@
+        <table id="ahlPersonelList" class="datatable-table">
+            <thead>
+                <tr>
+                    <th data-field="RecordID" class="datatable-cell-center datatable-cell datatable-cell-check"><span style="width: 20px;"><label class="checkbox checkbox-single checkbox-all"><input name="select_all" id="example-select-all" unchecked value="allSelectFill" type="checkbox">&nbsp;<span></span></label></span></th>
+
+                    <th>Ad Soyad</th>
+                    <th>Ünvan</th>
+                    <th>Bölüm</th>
+                    <th hidden>TC</th>
+                    <th hidden>Ad Soyad</th>
+                    <th hidden>İşyeri</th>
+                    <th hidden>Şirket</th>
+                    <th style="width:150px;">İşlemler</th>
+                </tr>
+            </thead>
+            <tbody id="kekw3">
+                @{ foreach (var item in ViewBag.personelListBag)
+                    {
+                        <tr id="kekw2">
+
+                            <td class="datatable-cell-center datatable-cell datatable-cell-check" data-field="RecordID" aria-label="11"><span style="width: 20px;"><label class="checkbox checkbox-single"><input type="checkbox" id="personelTcControl" data-field="@item.tc" name="tc" value="@item.tc">&nbsp;<span></span></label></span></td>
+
+                            <td>@item.ad_soyad</td>
+                            <td>@item.unvan</td>
+                            <td>@item.bolum</td>
+
+                            <td hidden>@item.tc</td>
+                            <td hidden>
+                                <div class="d-flex align-items-center">
+
+                                    <div class="d-flex justify-content-start flex-column">
+                                        <a href="#" class="text-dark fw-bolder text-hover-primary fs-6">@item.ad_soyad</a>
+                                        <span class="text-muted fw-bold text-muted d-block fs-7">@item.unvan</span>
+                                    </div>
+                                </div>
+                            </td>
+                            <td hidden>@item.isyeri</td>
+                            <td hidden>
+                                <div class="d-flex align-items-center">
+
+                                    <div class="d-flex justify-content-start flex-column">
+                                        <a href="#" class="text-dark fw-bolder text-hover-primary fs-6">@item.sirket</a>
+                                        <span class="text-muted fw-bold text-muted d-block fs-7">@item.bolum</span>
+                                    </div>
+                                </div>
+                            </td>
+
+                            <td style="width:150px;">
+                                <a class="btn btn-info btn-sm" data-toggle="modal" data-target="#personelDetailModal" onclick="personelDetail(@item.id)">Detay</a>
+                                <a hidden class="btn btn-warning btn-sm" data-toggle="modal" data-target="#kt_inbox_composes" onclick="personelUpdate(@item.id)">Düzenle</a>
+                                <a hidden onclick='personelSil(@item.id)' class="btn btn-danger btn-sm">Sil</a>
+                            </td>
+                        </tr>
+                    }}
+            </tbody>
+        </table>
+    </form>
+    </div>
+
+
+
+</div>
+
+
+@*Filter Modal*@
+
+<div class="modal modal-sticky modal-sticky-lg modal-sticky-bottom-right" id="kt_inbox_compose" data-backdrop="false" style="display: none;" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <!--begin::Form-->
+            <form id="kt_inbox_compose_form" method="post" action="@Url.Action("Index", "Personel")">
+                <!--begin::Header-->
+                <div class="d-flex align-items-center justify-content-between py-5 pl-8 pr-5 border-bottom">
+                    <h5 class="font-weight-bold m-0">Personel Filtreleme</h5>
+                    <div class="d-flex ml-2">
+
+                        <span class="btn btn-clean btn-sm btn-icon" data-dismiss="modal">
+                            <i class="ki ki-close icon-1x"></i>
+                        </span>
+                    </div>
+                </div>
+                <!--end::Header-->
+                <!--begin::Body-->
+                <div class="">
+                    <div class="row mt-3 ml-2 mr-2">
+                        <div class="col-md-12">
+                            <div class="form-group">
+                                <input class="form-control w-100" placeholder="Ad Soyad" name="allSearch" />
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <select class="form-control" name="unvanSearch">
+                                    <option value="" selected>Ünvan Seçiniz</option>
+                                    @foreach (var item in ViewBag.personelListUnvan)
+                                    {
+                                        <option value="@item">@item</option>
+                                    }
+
+                                </select>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <select class="form-control" name="sirketSearch">
+                                    <option value="" selected>Şirket Seçiniz</option>
+                                    @foreach (var item in ViewBag.personelSirket)
+                                    {
+                                        <option value = "@item" > @item</option>
+                                         }
+                                </select>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <select class="form-control" name="bolumSearch">
+                                    <option value="" selected>Bölüm Seçiniz</option>
+                                    @foreach (var item in ViewBag.personelBolum)
+                                    {
+                                        <option value="@item">@item</option>
+                                    }
+                                </select>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <select class="form-control" name="isyeriSearch">
+                                    <option value="" selected>İşyeri Seçiniz</option>
+
+                                    @foreach (var item in ViewBag.personelListIsyeri)
+                                    {
+                                        <option value="@item">@item</option>
+                                    }
+
+
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--end::Body-->
+                <!--begin::Footer-->
+                <div class="d-flex align-items-center justify-content-between py-5 pl-8 pr-5 border-top">
+                    <!--begin::Actions-->
+                    <div class="d-flex align-items-center mr-3">
+                        <!--begin::Send-->
+                        <div class="btn-group mr-4">
+                            <button class="btn btn-primary font-weight-bold px-6" type="submit">Ara</button>
+
+                        </div>
+                    </div>
+                    <!--end::Send-->
+
+
+                </div>
+                <!--end::Footer-->
+            </form>
+            <!--end::Form-->
+        </div>
+    </div>
+</div>
+
+@*Filter Modal*@
+
+<script>
+    
+   
+
+    $(document).ready(function () {
+        $("input[type=checkbox]").change(function () {
+            if (this.checked) { }
+            //or
+            if ($(this).prop("checked")) {
+                $('#convertToQr').removeAttr("disabled", "disabled");
+            } else {
+                $('#convertToQr').attr("disabled", "disabled");
+            }
+            ////or
+            //if ($(this).is(":checked")) {
+            //    alert("ha2")
+            //}
+        });
+    })
+
+
+
+   
+    function printQrDetail(divName) {
+        var printContents = document.getElementById(divName).innerHTML;
+        var originalContents = document.body.innerHTML;
+
+        document.body.innerHTML = printContents;
+
+        window.print();
+
+        document.body.innerHTML = originalContents;
+    }
+
+
+    //Update
+    var personelUpdate = function (_id) {
+       
+      
+    
+            $.ajax({
+                url: '/personel/updateRespData',
+                data: { id: _id},
+                type: 'POST',
+                dataType: 'Json',
+                success: function (data) {
+
+                    $('#personelUpdateID').empty(); 
+                    $('#personelUpdateTC').empty(); 
+                    $('#personelUpdateAdSoyad').empty(); 
+                    $('#personelUpdateSirket').empty(); 
+                    $('#personelUpdateUnvan').empty(); 
+                    $('#personelUpdateBolum').empty(); 
+                    $('#personelUpdateIsyeri').empty();
+
+
+
+                    $('#personelUpdateID').val(data.id);
+                    $('#personelUpdateTC').val(data.tc);
+                    $('#personelUpdateAdSoyad').val(data.ad_soyad);
+                    $('#personelUpdateUnvan').val(data.unvan);
+                    $('#personelUpdateSirket').val(data.sirket);
+                    $('#personelUpdateBolum').val(data.bolum);
+                    $('#personelUpdateIsyeri').val(data.isyeri);
+
+
+                }
+            })
+      
+    };
+    //Update
+    //Detail
+    var personelDetail = function (_id) {
+       
+            $.ajax({
+                url: '/personel/updateRespData',
+                data: { id: _id},
+                type: 'POST',
+                dataType: 'Json',
+                success: function (data) {
+
+                  
+                    document.getElementById("personelDetailTC").innerHTML = data.tc;
+                    document.getElementById("personelDetailAdSoyad").innerHTML = data.ad_soyad;
+                    document.getElementById("personelDetailUnvan").innerHTML = data.unvan;
+                    document.getElementById("personelDetailSirket").innerHTML = data.sirket;
+                    document.getElementById("personelDetailBolum").innerHTML = data.bolum;
+                    document.getElementById("personelDetailIsyeri").innerHTML = data.isyeri;
+                    document.getElementById("personelDetailQr").setAttribute("src", data.QRCode);
+
+                    //$('#personelDetailTC').innerHTML = data.tc
+                    //$('#personelUpdateAdSoyad').val(data.ad_soyad);
+                    //$('#personelUpdateUnvan').val(data.unvan);
+                    //$('#personelUpdateSirket').val(data.sirket);
+                    //$('#personelUpdateBolum').val(data.bolum);
+                    //$('#personelUpdateIsyeri').val(data.isyeri);
+
+
+                }
+            })
+      
+    };
+    //Detail
+
+
+    //SİL
+    var personelSil = function (_id) {
+        $.ajax({
+            url: '/personel/updateRespData',
+            data: { id: _id },
+            type: 'POST',
+            dataType: 'Json',
+            success: function (data) {
+
+                Swal.fire({
+                    title: 'Uyarı !!!',
+                    text: `${data.ad_soyad} adlı personeli silmek istediğine emin misin ?`,
+                    icon: 'warning',
+                    showCancelButton: true,
+                    confirmButtonColor: '#3085d6',
+                    cancelButtonColor: '#d33',
+                    confirmButtonText: 'Sil',
+                    cancelButtonText: 'İptal',
+                    reverseButtons: true
+                }).then((result) => {
+                    if (result.isConfirmed) {
+
+                        $.ajax({
+                            type: "POST",
+                            url: "/personel/deletePersonel",
+                            data: { id: _id },
+                            success: function (result) {
+                                if (result) {
+                                    toastr.success("Silme işlemi başarılı.");
+
+
+                                    window.location.href = "/personel";
+
+                                }
+                                else {
+                                    alertify.error("Hata oluştu silme işlemi sırasında");
+                                }
+                            }
+                        });
+                    }
+                })
+            }
+        });
+
+       
+
+    };
+    //SİL
+
+
+
+    $(document).ready(function () {
+
+
+
+
+
+
+        var myArray = [];
+
+
+
+        var selectAllCheck = document.getElementById('example-select-all');
+
+
+  
+        //$('#example-select-all').click(function (event) {
+        //    if (this.checked) {
+        //        // Iterate each checkbox
+        //        $(':checkbox').each(function () {
+        //            this.checked = true;
+        //        });
+        //    } else {
+        //        $(':checkbox').each(function () {
+        //            this.checked = false;
+        //        });
+        //    }
+        //}); 
+
+
+        document.querySelectorAll("#personelTcControl").forEach(x => {
+
+            selectAllCheck.addEventListener('click', function () {
+                if (selectAllCheck.checked == true) {
+                    $('#postQRCodeDiv').append(`<input hidden  type="text" name="tc" id="${x.value}" value="${x.value}" />`);
+                    x.setAttribute("checked", "checked");
+                    x.removeAttribute("unchecked", "unchecked");
+                   
+                    $('#qrPostListMini').val(myArray);
+                } else {
+                    x.setAttribute("unchecked", "unchecked");
+                    x.removeAttribute("checked", "checked");
+                    const element = document.getElementById(`${x.value}`);
+                    element.remove();
+                }
+            })
+
+            x.addEventListener('click', function () {
+                if (this.checked == true) {
+
+                    ////console.log(this.value);
+                    //myArray.push(this.value);
+                    this.setAttribute("checked", "checked");
+                    this.removeAttribute("unchecked", "unchecked");
+                    $('#postQRCodeDiv').append(`<input hidden type="text" name="tc" id="${this.value}" value="${this.value}" />`);
+
+                    /*console.log(myArray);*/
+                    $('#qrPostListMini').val(myArray);
+
+                } else {
+                    this.setAttribute("unchecked", "unchecked");
+                    this.removeAttribute("checked", "checked");
+                    //myArray.pop(this.value);
+                    const element = document.getElementById(`${this.value}`);
+                    element.remove();
+                    //$('#qrPostListMini').val(myArray);
+                    //console.log("");
+                }
+
+            })
+        });
+
+        //document.querySelectorAll("#personelTcControl").forEach(x => {
+        //    selectAllCheck.addEventListener('click', function () {
+        //        if (selectAllCheck.checked == true) {
+        //            x.setAttribute("checked", true);
+        //            x.removeAttribute("unchecked", true);
+        //            myArray.push(x.value);
+        //        } else {
+        //            x.setAttribute("unchecked", true);
+        //            x.removeAttribute("checked", true);
+        //            delete myArray[x.value];
+        //        }
+        //    });
+
+
+        //    x.addEventListener('click', function () {
+        //        if (this.checked == true) {
+
+        //            myArray.push(this.value);
+        //        } else {
+        //            delete myArray[this.value];
+        //        }
+
+        //console.log("Resp " + myArray);
+        //    });
+
+        //});
+
+
+
+        $('#convertToQr').on('click', function () {
+            $.ajax({
+                url: '/Personel/print',
+                data: { tc: myArray },
+                type: 'POST',
+                dataType: 'Json',
+                beforeSend: function () {
+                    $("#load_animation").show();
+                    window.location.href = "";
+                },
+                success: function (data) {
+                    window.location.href = "Personel/Print";
+                    $("#load_animation").hide();
+
+                }
+
+            })
+        });
+
+
+
+        var table = $('#ahlPersonelList').dataTable({
+            responsive: true,
+            "search": {
+                "caseInsensitive": true,
+                "regex":true
+            },
+            pageLength: 6,
+            'columnDefs': [{
+                'targets': 0,
+                'checkboxes': {
+                    'selectRow': true
+                },
+                'searchable': false,
+                'orderable': false,
+                'className': 'dt-body-center',
+                //'render': function (data, type, full, meta) {
+                //    return `<span id="spankekw" style="width: 20px;"><label class="checkbox checkbox-single"><input type="checkbox" id="personelQrPost" name="tc" value="${data}">&nbsp;<span></span></label></span>`;
+
+                //}
+            }],
+
+            language: {
+                "oPaginate": {
+                    "sNext": ">",
+                    "sPrevious": "<",
+                    "sLast": ">>",
+                    "sFirst": "<<",
+                },
+                search: "_INPUT_",
+                searchPlaceholder: "Arama...",
+                lengthMenu: " _MENU_ ",
+                zeroRecords: "<p class='alert alert-danger'>Kayıt bulunamadı</p>",
+                info: "Gösterilen Sayfa : _PAGE_ Sayfalar : _PAGES_",
+                infoEmpty: "Kayıt yok",
+                infoFiltered: "(Toplam _MAX_ kayıttan filtrelendi)",
+                processing: `<div class="spinner-grow text-primary me-2" style="width: 3rem; height: 3rem;" role="status">
+                                                 <span class="visually-hidden">Loading...</span>
+                                             </div>`
+
+            },
+            //'columnDefs': [
+            //    {
+            //        'targets': 0,
+            //        'checkboxes': {
+            //            'selectRow': true
+            //        }
+            //    }
+            //],
+            //'select': {
+            //    'style': 'multi'
+            //},
+
+        });
+        //var array = []
+        //$('#personelQrPost').on('click', function () {
+        //        if (!$('#personelQrPost').prop("checked")) {
+        //        $('#personelQrPost').prop('unchecked', true);
+        //        $('#personelQrPost').prop('checked', false);
+        //    } else {
+        //        $('#personelQrPost').prop('checked', true);
+        //        $('#personelQrPost').prop('unchecked', false);
+        //    }
+
+        //});
+        //var checkboxes = document.querySelectorAll('personelQrPost:checked')
+        //for (var i = 0; i < checkboxes.length; i++) {
+        //    array.push(checkboxes[i].value)
+        //}
+        //$('#ahlPersonelList tbody').on('click', 'tr', function () {
+        //    console.log(table.row(this).data());
+        //});
+
+        //document.querySelectorAll("#kekw3 input").forEach(x => {
+        //    x.addEventListener('click', function () {
+        //        if (this.checked == true) {
+        //            console.log(this.value);
+        //        } else {
+        //            console.log("errorrrrrr");
+        //        }
+
+        //    })
+        //});
+
+        //for (var getListPost of getPost) {
+
+        //}
+
+    });
+
+    //Selected Control
+
+
+    $(document).ready(function () {
+
+        //$("#personelAllChecked").click(function () {
+        //    $('#personelQrPost').not(this).prop('checked', this.checked);
+        //});
+
+        //$('#personelAllChecked').click(function () {
+        //    if (!$(this).prop("checked")) {
+        //        $('#personelQrPost').prop('unchecked', true);
+        //        $('#personelQrPost').prop('checked', false);
+        //    } else {
+        //        $('#personelQrPost').prop('checked', true);
+        //        $('#personelQrPost').prop('unchecked', false);
+        //    }
+        //});
+        var resp = $('#personelQrPost').each().val();
+        $("#personelAllChecked").click(function () {
+            $('#personelQrPost').not(this).prop('checked');
+        });
+
+        //console.log(resp)
+
+        //$('#personelAllChecked').each(function () {
+
+
+
+        //    //$("#personelAllChecked").click(function () {
+        //    //    $('#personelQrPost').not(this).prop('checked', this.checked);
+        //    //});
+
+        //    //$('#personelAllChecked').click(function () {
+        //    //    if (!$(this).prop("checked")) {
+        //    //        $('#personelQrPost').prop('unchecked', true);
+        //    //        $('#personelQrPost').prop('checked', false);
+        //    //    } else {
+        //    //        $('#personelQrPost').prop('checked', true);
+        //    //        $('#personelQrPost').prop('unchecked', false);
+        //    //    }
+        //    //});
+        //});
+
+        var selecteditems = [];
+
+        $("#personelQrPost").find("input:checked").each(function (i, ob) {
+            selecteditems.push($(ob).val());
+        });
+
+        /*console.log(selecteditems);*/
+    });
+
+    //Selected Control
+
+    //QR 1
+    var Rem = function (_id) {
+
+        $.ajax({
+            type: "POST",
+            url: "/Personel/personelDetail/" + _id,
+            data: { id: _id },
+            success: function (result) {
+                if (result) {
+
+
+                    window.location.href = result;
+
+                }
+                else {
+                    alertify.error("Hata oluştu silme işlemi sırasında");
+                }
+            }
+        });
+
+
+    };
+</script>

@@ -1,0 +1,167 @@
+﻿
+@{
+    ViewBag.Title = "Print";
+}
+
+
+
+
+<div class="row fixed-top" style="z-index:999999">
+    <div class="col-md-2"><h2 id="bannerHeader" hidden>Yazdırma Ekranı</h2></div>
+    <div class="col-md-10 ">
+        <button id="printPageBtn"  class="btn btn-primary float-right mt-5 mr-5" onclick="printPage()">Yazdır</button>
+        <button id="iptalPageBtn"  class="btn btn-danger float-right mt-5 mr-5" onclick="window.location.href ='@Url.Action("personelEkle", "Personel")'">İptal</button>
+    </div>
+</div>
+
+
+@*<style>
+        @@media print{
+            body *{
+                visibility:hidden;
+            }
+
+            .print-container, .print-container *{
+                visibility:visible;
+            }
+
+            .print-container{
+                position:absolute;
+                left:0;
+                top:7px;
+                background-color:red;
+            }
+        }
+    </style>*@
+
+@*<style>
+        @@media print {
+            @@page {
+                size: A3;
+            }
+        }
+    </style>*@
+@*<style>
+    body {
+        width: 230mm;
+        height: 100%;
+        margin: 0 auto;
+        padding: 0;
+        font-size: 12pt;
+        background: rgb(204,204,204);
+    }
+
+    * {
+        box-sizing: border-box;
+        -moz-box-sizing: border-box;
+    }
+
+    .main-page {
+        width: 210mm;
+        min-height: 297mm;
+        margin: 10mm auto;
+        background: white;
+        box-shadow: 0 0 0.5cm rgba(0,0,0,0.5);
+    }
+
+    .sub-page {
+        padding: 1cm;
+        height: 297mm;
+    }
+
+    @@page {
+        size: A4;
+        margin: 0;
+    }
+
+    @@media print {
+        html, body {
+            width: 210mm;
+            height: 297mm;
+        }
+
+        .main-page {
+            margin: 0;
+            border: initial;
+            border-radius: initial;
+            width: initial;
+            min-height: initial;
+            box-shadow: initial;
+            background: initial;
+            page-break-after: always;
+        }
+    }
+</style>*@
+
+@*<div class="main-page">
+    <div class="sub-page">
+        <h3 align='center'>A4 Page in Portrait.(210mm X 297mm)</h3>
+    </div>
+</div>*@
+
+<div class="row" >
+    @foreach (var item in ViewBag.PerList)
+    {
+        <div class="col-md-4 " style="border:3px dotted black;margin-bottom:20px !important">
+
+
+            <div class="d-flex align-items-center">
+
+                <div class="flex-shrink-0">
+                    <img src="@item.QRCode" alt="Personel QR Code" style="height: 100px; width: 100px" />
+                </div>
+
+                <div class="d-flex flex-column w-100">
+                    <h5 class="text-dark font-weight-bold mb-0 text-center">@item.ad_soyad</h5>
+                    @* <span class="text-muted font-weight-bold">@item.unvan</span>*@
+                </div>
+
+            </div>
+        </div>
+    }
+</div>
+
+<!--<div class="row print-container" style="max-height:1130px !important; background-color:lightgreen">
+    foreach (var item in ViewBag.PerList)
+    {
+            <div class="col-md-4" style="max-height:113px!important">
+
+
+                <div class="d-flex align-items-center"  >
+
+                    <div class="flex-shrink-0">
+                        <img src="item.QRCode" alt="Personel QR Code" style="height: 113px!important; width: 113px!important" />
+                    </div>
+
+                    <div class="d-flex flex-column">
+                        <h5 class="text-dark font-weight-bold mb-0">item.ad_soyad</h5>-->
+@* <span class="text-muted font-weight-bold">@item.unvan</span>*@
+<!--</div>
+
+
+
+            </div>
+        </div>
+}
+    </div>-->
+
+
+<script type="text/javascript">
+
+    
+
+
+    function printPage() {
+        var printHead = document.getElementById("bannerHeader");
+        var printBtn = document.getElementById("printPageBtn");
+        var iptalBtn = document.getElementById("iptalPageBtn");
+
+        printBtn.style.visibility = 'hidden';
+        printHead.style.visibility = 'hidden';
+        iptalBtn.style.visibility = 'hidden';
+        window.print();
+        printBtn.style.visibility = 'visible';
+        printHead.style.visibility = 'visible';
+        iptalBtn.style.visibility = 'visible';
+    }
+</script>

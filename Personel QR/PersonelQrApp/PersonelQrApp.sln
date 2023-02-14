@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Barkod.API", "Barkod.API\Barkod.API.csproj", "{CBC1D34D-BA2D-4DD0-8467-03E7E2F91D11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Barkod.MVC", "Barkod.MVC\Barkod.MVC.csproj", "{D88F991C-647D-43A6-B56D-A3252C2736EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBC1D34D-BA2D-4DD0-8467-03E7E2F91D11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBC1D34D-BA2D-4DD0-8467-03E7E2F91D11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBC1D34D-BA2D-4DD0-8467-03E7E2F91D11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBC1D34D-BA2D-4DD0-8467-03E7E2F91D11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D88F991C-647D-43A6-B56D-A3252C2736EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D88F991C-647D-43A6-B56D-A3252C2736EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D88F991C-647D-43A6-B56D-A3252C2736EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D88F991C-647D-43A6-B56D-A3252C2736EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5E6AEEF-98A2-4AD5-A3C9-6F5DF12AB213}
+	EndGlobalSection
+EndGlobal

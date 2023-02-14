@@ -1,0 +1,4205 @@
+[
+  {
+    "id": 1,
+    "tc": "18124793364",
+    "ad_soyad": "A. SELİN KARAGÖZ",
+    "unvan": "SATINALMA UZMANI",
+    "isyeri": "ÇEDAŞ/ÇORUM",
+    "bolum": "Satınalma Müdürlüğü",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 2,
+    "tc": "13002012278",
+    "ad_soyad": "A.MELEK KOÇAK",
+    "unvan": "TİCARİ MUHASEBE YÖNETİCİSİ",
+    "isyeri": "ÇEDAŞ/YOZGAZ ",
+    "bolum": "Muhasebe Birimi",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 3,
+    "tc": "17149826446",
+    "ad_soyad": "AHMET RIDVAN CAMCI",
+    "unvan": "FİNANS UZMANI",
+    "isyeri": "ÇEDAŞ/ÇORUM",
+    "bolum": "Finans Birimi",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 4,
+    "tc": "28478216402",
+    "ad_soyad": "AHU GÖZÜBÜYÜK",
+    "unvan": "ÇAĞRI MERKEZİ MÜŞTERİ TEMSİLCİSİ",
+    "isyeri": "ÇEDAŞ/ÇORUM",
+    "bolum": "Çağrı Merkezi Birimi",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 5,
+    "tc": "34426214758",
+    "ad_soyad": "ALİ ALHAN",
+    "unvan": "ETÜD PROJE VE CBS UZMANI",
+    "isyeri": "ÇEDAŞ/ÇANKIRI",
+    "bolum": "Etüd Proje ve CBS Birimi",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 6,
+    "tc": "20776693954",
+    "ad_soyad": "ASLI BAYRAM",
+    "unvan": "ÇAĞRI MERKEZİ MÜŞTERİ TEMSİLCİSİ",
+    "isyeri": "ÇEDAŞ/ÇORUM",
+    "bolum": "Çağrı Merkezi Birimi",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 7,
+    "tc": "38125123724",
+    "ad_soyad": "ASLIHAN ALTIPARMAK",
+    "unvan": "MALİ İŞLER MÜDÜRÜ",
+    "isyeri": "ÇEDAŞ/ÇORUM",
+    "bolum": "Mali İşler Genel Müdür Yardımcılığı",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 8,
+    "tc": "25024564086",
+    "ad_soyad": "AYŞENUR AYALI",
+    "unvan": "ÇAĞRI MERKEZİ MÜŞTERİ TEMSİLCİSİ",
+    "isyeri": "ÇEDAŞ/ÇORUM",
+    "bolum": "Çağrı Merkezi Birimi",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 9,
+    "tc": "22411651282",
+    "ad_soyad": "AYTEKİN AKCA",
+    "unvan": "ARAÇ TAKİP UZMANI",
+    "isyeri": "ÇEDAŞ/ÇORUM",
+    "bolum": "Satınalma Müdürlüğü",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 10,
+    "tc": "24805572722",
+    "ad_soyad": "BERK ÖZŞAHİN",
+    "unvan": "OPERASYON MÜHENDİSİ",
+    "isyeri": "ÇEDAŞ/ÇORUM",
+    "bolum": "Operasyon Birimi",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 11,
+    "tc": "26335097768",
+    "ad_soyad": "BETÜL GÜNDÜR",
+    "unvan": "İNSAN KAYNAKLARI UZMANI",
+    "isyeri": "ÇEDAŞ/ÇORUM",
+    "bolum": "İnsan Kaynakları Birimi",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 12,
+    "tc": "22508770988",
+    "ad_soyad": "BİROL BİLGİÇ",
+    "unvan": "BAKIM TEKNİSYENİ",
+    "isyeri": "ÇEDAŞ/KARABÜK",
+    "bolum": "Operasyon Birimi",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 13,
+    "tc": "36652163978",
+    "ad_soyad": "BURCU ÖZEL",
+    "unvan": "ÇAĞRI MERKEZİ MÜŞTERİ TEMSİLCİSİ",
+    "isyeri": "ÇEDAŞ/ÇORUM",
+    "bolum": "Çağrı Merkezi Birimi",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 14,
+    "tc": "16609854784",
+    "ad_soyad": "BÜNYAMİN ŞAHİN",
+    "unvan": "BİLGİSAYAR DONANIM VE BAKIM UZMAN YARDIMCISI",
+    "isyeri": "ÇEDAŞ/ÇORUM",
+    "bolum": "Donanım ve Bakım Birimi",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 15,
+    "tc": "40930035352",
+    "ad_soyad": "CANSU ÖZÜDOĞRU",
+    "unvan": "ÇAĞRI MERKEZİ MÜŞTERİ TEMSİLCİSİ",
+    "isyeri": "ÇEDAŞ/ÇORUM",
+    "bolum": "Çağrı Merkezi Birimi",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 16,
+    "tc": "30244389586",
+    "ad_soyad": "CUMHUR CEM ALAKOÇ",
+    "unvan": "BT DONANIM VE BAKIM BİRİM YÖNETİCİSİ",
+    "isyeri": "ÇEDAŞ/ÇORUM",
+    "bolum": "Donanım ve Bakım Birimi",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 17,
+    "tc": "16177858856",
+    "ad_soyad": "ÇETİN DÜLGER",
+    "unvan": "FİNANS UZMAN YARDIMCISI",
+    "isyeri": "ÇEDAŞ/ÇORUM",
+    "bolum": "Finans Birimi",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 18,
+    "tc": "10886016156",
+    "ad_soyad": "DİLEK KAYA",
+    "unvan": "SEKRETER",
+    "isyeri": "ÇEDAŞ/ÇORUM",
+    "bolum": "İdari İşler -İK",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 19,
+    "tc": "18841769420",
+    "ad_soyad": "BÜŞRA SÖNMEZ",
+    "unvan": "ÖLÇÜM YÖNETİCİSİ",
+    "isyeri": "ÇEDAŞ/ÇORUM",
+    "bolum": "Ölçüm Birimi",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 20,
+    "tc": "25603555528",
+    "ad_soyad": "DUYGU AKSAKAL",
+    "unvan": "ÇAĞRI MERKEZİ MÜŞTERİ TEMSİLCİSİ",
+    "isyeri": "ÇEDAŞ/ÇORUM",
+    "bolum": "Çağrı Merkezi Birimi",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 21,
+    "tc": "16165860014",
+    "ad_soyad": "EBRU ESEN",
+    "unvan": "ÇAĞRI MERKEZİ MÜŞTERİ TEMSİLCİSİ",
+    "isyeri": "ÇEDAŞ/ÇORUM",
+    "bolum": "Çağrı Merkezi Birimi",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 22,
+    "tc": "11067096516",
+    "ad_soyad": "ELİF EBİL ",
+    "unvan": "ÇAĞRI MERKEZİ TAKIM LİDERİ",
+    "isyeri": "ÇEDAŞ/ÇORUM",
+    "bolum": "Çağrı Merkezi Birimi",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 23,
+    "tc": "30524470904",
+    "ad_soyad": "EMRAH TEKİN",
+    "unvan": "FİNANS UZMANI",
+    "isyeri": "ÇEDAŞ/ÇORUM",
+    "bolum": "Finans Birimi",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 24,
+    "tc": "30220391954",
+    "ad_soyad": "DURSUN ERİNÇ",
+    "unvan": "ACİL KAZI OPERATÖRÜ",
+    "isyeri": "ÇEDAŞ/ÇORUM",
+    "bolum": "Yapım Kontrol Müdürlüğü",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 25,
+    "tc": "23773604978",
+    "ad_soyad": "EMRE KÜÇÜKEFE",
+    "unvan": "MUHASEBE UZMANI",
+    "isyeri": "ÇEDAŞ/ÇORUM",
+    "bolum": "Muhasebe Birimi",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 26,
+    "tc": "61282402128",
+    "ad_soyad": "EMRE ŞAHİN",
+    "unvan": "ETÜD PROJE VE CBS UZMANI",
+    "isyeri": "ÇEDAŞ/YOZGAZ ",
+    "bolum": "Etüd Proje ve CBS Birimi",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 27,
+    "tc": "30379386504",
+    "ad_soyad": "EMRE BOZOK",
+    "unvan": "ÖLÇÜM UZMANI",
+    "isyeri": "ÇEDAŞ/ÇORUM",
+    "bolum": "Ölçüm Birimi",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 28,
+    "tc": "53431738318",
+    "ad_soyad": "ENGİN ULAŞ",
+    "unvan": "YAPIM KONTROL TEKNİSYENİ",
+    "isyeri": "ÇEDAŞ/KARABÜK",
+    "bolum": "Operasyon Birimi",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 29,
+    "tc": "14764908830",
+    "ad_soyad": "ERTUĞRUL YUMUTKAN",
+    "unvan": "FİNANS UZMAN YARDIMCISI",
+    "isyeri": "ÇEDAŞ/ÇORUM",
+    "bolum": "Finans Birimi",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 30,
+    "tc": "36709174186",
+    "ad_soyad": "FATİH ÇENESİZ",
+    "unvan": "BİLGİSAYAR DONANIM VE BAKIM UZMANI",
+    "isyeri": "ÇEDAŞ/ÇORUM",
+    "bolum": "Donanım ve Bakım Birimi",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 31,
+    "tc": "30500290212",
+    "ad_soyad": "FERDA ALTUN",
+    "unvan": "ÇAĞRI MERKEZİ YÖNETİCİSİ",
+    "isyeri": "ÇEDAŞ/ÇORUM",
+    "bolum": "Çağrı Merkezi Birimi",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 32,
+    "tc": "36010198536",
+    "ad_soyad": "GİZEM YİTMEZ",
+    "unvan": "İNSAN KAYNAKLARI UZMAN YARDIMCISI",
+    "isyeri": "ÇEDAŞ/ÇORUM",
+    "bolum": "İnsan Kaynakları Birimi",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 33,
+    "tc": "19849739392",
+    "ad_soyad": "ERHAN TAŞ",
+    "unvan": "ELEKTRİK TEKNİKERİ",
+    "isyeri": "ÇEDAŞ/ÇORUM",
+    "bolum": "Donanım ve Bakım Birimi",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 34,
+    "tc": "26399405042",
+    "ad_soyad": "GÖKHAN AŞKIN BEKTAŞ",
+    "unvan": "ARŞİV UZMANI",
+    "isyeri": "ÇEDAŞ/ÇORUM",
+    "bolum": "Arşiv Birimi",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 35,
+    "tc": "19471001812",
+    "ad_soyad": "GÜLÇİN KUMRAL",
+    "unvan": "YÖNETİCİ ASİSTANI",
+    "isyeri": "ÇEDAŞ/ÇORUM",
+    "bolum": "Genel Müdürlük ",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 36,
+    "tc": "20284721590",
+    "ad_soyad": "GÜLŞAH RECBER",
+    "unvan": "MÜŞTERİ DENEYİMİ SATIŞ ve PAZARLAMA YÖNETİCİSİ",
+    "isyeri": "ÇEDAŞ/ÇORUM",
+    "bolum": "Müşteri Deneyimi & Satış ve Pazarlama Müdürlüğü",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 37,
+    "tc": "30301384394",
+    "ad_soyad": "GÜRKAN ELİAÇIK ",
+    "unvan": "ETÜD PROJE VE CBS UZMANI",
+    "isyeri": "ÇEDAŞ/ÇORUM",
+    "bolum": "Etüd Proje ve CBS Birimi",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 38,
+    "tc": "36635224382",
+    "ad_soyad": "HALE SELİMOĞLU",
+    "unvan": "AVUKAT",
+    "isyeri": "ÇEDAŞ/ÇORUM",
+    "bolum": "Hukuk Müşavirliği ",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 39,
+    "tc": "18313790518",
+    "ad_soyad": "HALİL İBRAHİM UZUN",
+    "unvan": "ETÜD PROJE VE CBS BİRİM YÖNETİCİSİ",
+    "isyeri": "ÇEDAŞ/ÇORUM",
+    "bolum": "Etüd Proje ve CBS Birimi",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 40,
+    "tc": "12238161194",
+    "ad_soyad": "HALİT KOÇAK",
+    "unvan": "SCADA UZMANI",
+    "isyeri": "ÇEDAŞ/ÇORUM",
+    "bolum": "Scada Müdürlüğü",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 41,
+    "tc": "51574393388",
+    "ad_soyad": "HAMİT KELEŞ",
+    "unvan": "YAPIM KONTROL UZMANI",
+    "isyeri": "ÇEDAŞ/ÇORUM",
+    "bolum": "Yapım Kontrol Müdürlüğü",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 42,
+    "tc": "22432652848",
+    "ad_soyad": "HAMZA YÜCEL",
+    "unvan": "BİLGİSAYAR DONANIM VE BAKIM UZMANI",
+    "isyeri": "ÇEDAŞ/ÇORUM",
+    "bolum": "Donanım ve Bakım Birimi",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 43,
+    "tc": "34375242178",
+    "ad_soyad": "HASAN CAN GÜLTEKİN",
+    "unvan": "BT SİSTEM VE NETWORK BİRİM YÖNETİCİSİ",
+    "isyeri": "ÇEDAŞ/ÇORUM",
+    "bolum": "Bilgi Teknolojileri Genel Müdür Yardımcılığı",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 44,
+    "tc": "57757091898",
+    "ad_soyad": "HAYRİYE DAĞLI",
+    "unvan": "YAZILIM, PROJE VE SÜREÇ GELİŞTİRME MÜDÜRÜ",
+    "isyeri": "ÇEDAŞ/ÇORUM",
+    "bolum": "Bilgi Teknolojileri Genel Müdür Yardımcılığı",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 45,
+    "tc": "12213071074",
+    "ad_soyad": "HİLAL CÜRÜN",
+    "unvan": "SAP UYGULAMA UZMAN YARDIMCISI",
+    "isyeri": "ÇEDAŞ/ÇORUM",
+    "bolum": "Yazılım, Proje ve Süreç Geliştirme Müdürlüğü",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 46,
+    "tc": "16735839822",
+    "ad_soyad": "İSMAİL BAHATTİN UÇRAK",
+    "unvan": "ARŞİV UZMANI",
+    "isyeri": "ÇEDAŞ/ÇORUM",
+    "bolum": "Arşiv Birimi",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 47,
+    "tc": "34138776728",
+    "ad_soyad": "KAZIM KAHRAMAN",
+    "unvan": "SATINALMA MÜDÜRÜ",
+    "isyeri": "ÇEDAŞ/ÇORUM",
+    "bolum": "Mali İşler Genel Müdür Yardımcılığı",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 48,
+    "tc": "26170522678",
+    "ad_soyad": "KURTULUŞ CELEP",
+    "unvan": "YAZILIM GELİŞTİRME UZMANI",
+    "isyeri": "ÇEDAŞ/ÇORUM",
+    "bolum": "Yazılım, Proje ve Süreç Geliştirme Müdürlüğü",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 49,
+    "tc": "24556578912",
+    "ad_soyad": "KÜBRA KALELİ",
+    "unvan": "ÇAĞRI MERKEZİ MÜŞTERİ TEMSİLCİSİ",
+    "isyeri": "ÇEDAŞ/ÇORUM",
+    "bolum": "Çağrı Merkezi Birimi",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 50,
+    "tc": "72844018060",
+    "ad_soyad": "LEVENT ÖZÜPAK",
+    "unvan": "BİLGİSAYAR DONANIM VE BAKIM UZMANI",
+    "isyeri": "ÇEDAŞ/YOZGAZ ",
+    "bolum": "Donanım ve Bakım Birimi",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 51,
+    "tc": "24379587018",
+    "ad_soyad": "MALİK MELİH HORAN",
+    "unvan": "BİLGİSAYAR DONANIM VE BAKIM UZMAN YARDIMCISI",
+    "isyeri": "ÇEDAŞ/ÇORUM",
+    "bolum": "Donanım ve Bakım Birimi",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 52,
+    "tc": "21371810036",
+    "ad_soyad": "MEHMET ERTAN GÖZEN",
+    "unvan": "ETÜD PROJE VE CBS UZMAN YARDIMCISI",
+    "isyeri": "ÇEDAŞ/KARABÜK",
+    "bolum": "Etüd Proje ve CBS Birimi",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 53,
+    "tc": "11525013536",
+    "ad_soyad": "MEHMET KURT",
+    "unvan": "FİNANS YÖNETİCİSİ",
+    "isyeri": "ÇEDAŞ/ÇORUM",
+    "bolum": "Finans Birimi",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 54,
+    "tc": "38779105022",
+    "ad_soyad": "MEHMET LASTİKÇİ",
+    "unvan": "SATINALMA UZMANI",
+    "isyeri": "ÇEDAŞ/ÇORUM",
+    "bolum": "Satınalma Müdürlüğü",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 55,
+    "tc": "29875391914",
+    "ad_soyad": "MEHTAP YILDIRAN",
+    "unvan": "KURUMSAL FİNANS UZMANI",
+    "isyeri": "ÇEDAŞ/ÇORUM",
+    "bolum": "Finans Birimi",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 56,
+    "tc": "15502876824",
+    "ad_soyad": "MELİS AKIN",
+    "unvan": "YAZILIM GELİŞTİRME UZMAN YARDIMCISI",
+    "isyeri": "ÇEDAŞ/ÇORUM",
+    "bolum": "Yazılım, Proje ve Süreç Geliştirme Müdürlüğü",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 57,
+    "tc": "31982204964",
+    "ad_soyad": "MEVLÜT KARA",
+    "unvan": "GENEL MÜDÜR YARDIMCISI (Operasyonlar&Yatırımlar)",
+    "isyeri": "ÇEDAŞ/ÇORUM",
+    "bolum": "Genel Müdürlük ",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 58,
+    "tc": "22918606464",
+    "ad_soyad": "MUHAMMED RAŞİT ÖZTÜRK",
+    "unvan": "ARŞİV UZMAN YARDIMCISI",
+    "isyeri": "ÇEDAŞ/ÇANKIRI",
+    "bolum": "Arşiv Birimi",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 59,
+    "tc": "39484070230",
+    "ad_soyad": "MUHARREM GÜÇLÜ",
+    "unvan": "ARŞİV UZMAN YARDIMCISI",
+    "isyeri": "ÇEDAŞ/ÇORUM",
+    "bolum": "Arşiv Birimi",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 60,
+    "tc": "19318756202",
+    "ad_soyad": "MURAT BULUT",
+    "unvan": "ŞOFÖR",
+    "isyeri": "ÇEDAŞ/ÇORUM",
+    "bolum": "Yapım Kontrol Müdürlüğü",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 61,
+    "tc": "60433450926",
+    "ad_soyad": "MURAT KAYABAŞILI",
+    "unvan": "DEPO UZMAN YARDIMCISI",
+    "isyeri": "ÇEDAŞ/YOZGAZ ",
+    "bolum": "Satınalma Müdürlüğü",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 62,
+    "tc": "12887917418",
+    "ad_soyad": "MURAT TAN",
+    "unvan": "ETÜD PROJE VE CBS UZMANI",
+    "isyeri": "ÇEDAŞ/KARABÜK",
+    "bolum": "Etüd Proje ve CBS Birimi",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 63,
+    "tc": "29554393769",
+    "ad_soyad": "NECİP FAZIL ŞAHİN",
+    "unvan": "BİLGİSAYAR DONANIM VE BAKIM UZMANI",
+    "isyeri": "ÇEDAŞ/ÇORUM",
+    "bolum": "Donanım ve Bakım Birimi",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 64,
+    "tc": "37462149770",
+    "ad_soyad": "NEŞE BABAOĞLU",
+    "unvan": "ETÜD PROJE VE CBS UZMANI",
+    "isyeri": "ÇEDAŞ/ÇORUM",
+    "bolum": "Etüd Proje ve CBS Birimi",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 65,
+    "tc": "13003006092",
+    "ad_soyad": "NİLÜFER DEMİRCİ",
+    "unvan": "MUHASEBE UZMAN YARDIMCISI",
+    "isyeri": "ÇEDAŞ/ÇORUM",
+    "bolum": "Muhasebe Birimi",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 66,
+    "tc": "45988662536",
+    "ad_soyad": "NURİYE KÖSER",
+    "unvan": "ÇAĞRI MERKEZİ MÜŞTERİ TEMSİLCİSİ",
+    "isyeri": "ÇEDAŞ/ÇORUM",
+    "bolum": "Çağrı Merkezi Birimi",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 67,
+    "tc": "67039083220",
+    "ad_soyad": "OKTAY DAVUT KAYA",
+    "unvan": "YAZILIM GELİŞTİRME UZMANI",
+    "isyeri": "ÇEDAŞ/ÇORUM",
+    "bolum": "Yazılım, Proje ve Süreç Geliştirme Müdürlüğü",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 68,
+    "tc": "40858465460",
+    "ad_soyad": "OKTAY UYLU",
+    "unvan": "ETÜT PROJE VE CBS UZMANI",
+    "isyeri": "ÇEDAŞ/YOZGAZ ",
+    "bolum": "Etüd Proje ve CBS Birimi",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 69,
+    "tc": "48586900550",
+    "ad_soyad": "ONUR KAPLAN",
+    "unvan": "ETÜD PROJE VE CBS UZMAN YARDIMCISI",
+    "isyeri": "ÇEDAŞ/ÇANKIRI",
+    "bolum": "Etüd Proje ve CBS Birimi",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 70,
+    "tc": "31981328982",
+    "ad_soyad": "ONUR ÖZÇELİK",
+    "unvan": "YAZILIM GELİŞTİRME UZMAN YARDIMCISI",
+    "isyeri": "ÇEDAŞ/ÇORUM",
+    "bolum": "Yazılım, Proje ve Süreç Geliştirme Müdürlüğü",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 71,
+    "tc": "16057865356",
+    "ad_soyad": "OSMAN SIĞIRTMAÇ",
+    "unvan": "MUHASEBE YÖNETİCİSİ",
+    "isyeri": "ÇEDAŞ/ÇORUM",
+    "bolum": "Muhasebe Birimi",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 72,
+    "tc": "34696234906",
+    "ad_soyad": "OSMAN UZANIR",
+    "unvan": "ARAÇ TAKİP UZMAN YARDIMCISI",
+    "isyeri": "ÇEDAŞ/ÇORUM",
+    "bolum": "Satınalma Müdürlüğü",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 73,
+    "tc": "14701907650",
+    "ad_soyad": "ÖMER AĞBAL",
+    "unvan": "YAPIM KONTROL MÜDÜRÜ",
+    "isyeri": "ÇEDAŞ/ÇORUM",
+    "bolum": "Yapım Kontrol Müdürlüğü",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 74,
+    "tc": "40834466252",
+    "ad_soyad": "ÖMER UYLU",
+    "unvan": "ARŞİV UZMAN YARDIMCISI",
+    "isyeri": "ÇEDAŞ/YOZGAZ ",
+    "bolum": "Arşiv Birimi",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 75,
+    "tc": "10487537432",
+    "ad_soyad": "ÖZKAN PALA",
+    "unvan": "GENEL MÜDÜR YARDIMCISI (Bilgi Teknolojileri)",
+    "isyeri": "ÇEDAŞ/ÇORUM",
+    "bolum": "Genel Müdürlük ",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 76,
+    "tc": "15712890306",
+    "ad_soyad": "ÖZLEM ÖZGE DOĞAN",
+    "unvan": "MUHASEBE UZMANI",
+    "isyeri": "ÇEDAŞ/ÇORUM",
+    "bolum": "Muhasebe Birimi",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 77,
+    "tc": "55291354004",
+    "ad_soyad": "ÖZLEM YILDIRIM",
+    "unvan": "ARŞİV UZMAN YARDIMCISI",
+    "isyeri": "ÇEDAŞ/KASTAMONU",
+    "bolum": "Arşiv Birimi",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 78,
+    "tc": "22033679114",
+    "ad_soyad": "SEDA MAVİ",
+    "unvan": "ÇAĞRI MERKEZİ MÜŞTERİ TEMSİLCİSİ",
+    "isyeri": "ÇEDAŞ/ÇORUM",
+    "bolum": "Çağrı Merkezi Birimi",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 79,
+    "tc": "36325187904",
+    "ad_soyad": "SEFA ESTELİK",
+    "unvan": "ACİL KAZI OPERATÖRÜ",
+    "isyeri": "ÇEDAŞ/ÇORUM",
+    "bolum": "Yapım Kontrol Müdürlüğü",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 80,
+    "tc": "11756002620",
+    "ad_soyad": "SERHAT GÖKHAN CANBOLAT",
+    "unvan": "MÜŞTERİ DENEYİMİ SATIŞ PAZARLAMA MÜDÜRÜ",
+    "isyeri": "ÇEDAŞ/ÇORUM",
+    "bolum": "Müşteri Deneyimi, Satış ve Pazarlama Genel Müdür Yardımcılığı",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 81,
+    "tc": "23279546536",
+    "ad_soyad": "SEVİL AĞIRMAN",
+    "unvan": "ÇAĞRI MERKEZİ MÜŞTERİ TEMSİLCİSİ",
+    "isyeri": "ÇEDAŞ/ÇORUM",
+    "bolum": "Çağrı Merkezi Birimi",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 82,
+    "tc": "52405776400",
+    "ad_soyad": "SEVİL DÜZGÜN KASIM",
+    "unvan": "ARŞİV UZMANI",
+    "isyeri": "ÇEDAŞ/KARABÜK",
+    "bolum": "Arşiv Birimi",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 83,
+    "tc": "36299117198",
+    "ad_soyad": "SEVİNÇ ÖZÜNEL",
+    "unvan": "BİLGİ TEKNOLOJİLERİ UZMAN YARDIMCISI",
+    "isyeri": "ÇEDAŞ/ÇORUM",
+    "bolum": "Yazılım, Proje ve Süreç Geliştirme Müdürlüğü",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 84,
+    "tc": "42313570634",
+    "ad_soyad": "SİNAN TUZCU",
+    "unvan": "ETÜD PROJE VE CBS UZMANI",
+    "isyeri": "ÇEDAŞ/KASTAMONU",
+    "bolum": "Etüd Proje ve CBS Birimi",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 85,
+    "tc": "28504448050",
+    "ad_soyad": "ŞEYDA ARTAR ESER",
+    "unvan": "ÇAĞRI MERKEZİ MÜŞTERİ TEMSİLCİSİ",
+    "isyeri": "ÇEDAŞ/ÇORUM",
+    "bolum": "Çağrı Merkezi Birimi",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 86,
+    "tc": "22333635254",
+    "ad_soyad": "Ş.SELCEN CANBOLAT",
+    "unvan": "STRATEJİK PLANLAMA & BÜTÇE VE RAPORLAMA BİRİM YÖNETİCİSİ ",
+    "isyeri": "ÇEDAŞ/ÇORUM",
+    "bolum": "Müşteri Deneyimi, Satış ve Pazarlama Genel Müdür Yardımcılığı",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 87,
+    "tc": "27142481818",
+    "ad_soyad": "TAYFUN AKGÜL",
+    "unvan": "ARŞİV UZMAN YARDIMCISI",
+    "isyeri": "ÇEDAŞ/ÇORUM",
+    "bolum": "Arşiv Birimi",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 88,
+    "tc": "29221434456",
+    "ad_soyad": "TUĞÇE ÇIRAK",
+    "unvan": "KALİTE VE İSG UZMANI",
+    "isyeri": "ÇEDAŞ/ÇORUM",
+    "bolum": "Kalite ve İSG Birimi",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 89,
+    "tc": "36340182298",
+    "ad_soyad": "TUNAHAN BAHÇECİ",
+    "unvan": "ÇAĞRI MERKEZİ MÜŞTERİ TEMSİLCİSİ",
+    "isyeri": "ÇEDAŞ/ÇORUM",
+    "bolum": "Çağrı Merkezi Birimi",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 90,
+    "tc": "38542113940",
+    "ad_soyad": "TURGAY AYDEMİR",
+    "unvan": "ETÜD PROJE VE CBS UZMANI",
+    "isyeri": "ÇEDAŞ/ÇORUM",
+    "bolum": "Etüd Proje ve CBS Birimi",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 91,
+    "tc": "37879134710",
+    "ad_soyad": "VAHDETTİN ALP ASLAN",
+    "unvan": "TAHSİLAT TAKİP YÖNETİCİSİ",
+    "isyeri": "ÇEDAŞ/ÇORUM",
+    "bolum": "Müşteri Deneyimi & Satış ve Pazarlama Müdürlüğü",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 92,
+    "tc": "12553980104",
+    "ad_soyad": "VELİ KIŞLA",
+    "unvan": "KEPÇE OPERATÖRÜ",
+    "isyeri": "ÇEDAŞ/ÇORUM",
+    "bolum": "Yapım Kontrol Müdürlüğü",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 93,
+    "tc": "23162067490",
+    "ad_soyad": "YADİGAR AKBAŞ",
+    "unvan": "ÇAĞRI MERKEZİ MÜŞTERİ TEMSİLCİSİ",
+    "isyeri": "ÇEDAŞ/ÇORUM",
+    "bolum": "Çağrı Merkezi Birimi",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 94,
+    "tc": "22015666750",
+    "ad_soyad": "YUNUS EMRE DOĞAN",
+    "unvan": "BİLGİSAYAR DONANIM VE BAKIM UZMAN YARDIMCISI",
+    "isyeri": "ÇEDAŞ/ÇORUM",
+    "bolum": "Donanım ve Bakım Birimi",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 95,
+    "tc": "41263022460",
+    "ad_soyad": "YUSUF AHLATCI",
+    "unvan": "BAŞ HUKUK MÜŞAVİRİ",
+    "isyeri": "ÇEDAŞ/ÇORUM",
+    "bolum": "Hukuk Müşavirliği ",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 96,
+    "tc": "34144776590",
+    "ad_soyad": "ZEKERİYA KAHRAMAN",
+    "unvan": "RMS-A YAPIM KONTROL YÖNETİCİSİ",
+    "isyeri": "ÇEDAŞ/ÇORUM",
+    "bolum": "GENEL MÜDÜR YARDIMCISI (Operasyonlar&Yatırımlar)",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 97,
+    "tc": "13966218938",
+    "ad_soyad": "ZELİHA KOCA",
+    "unvan": "SAP UYGULAMA UZMAN YARDIMCISI",
+    "isyeri": "ÇEDAŞ/ÇORUM",
+    "bolum": "Yazılım, Proje ve Süreç Geliştirme Müdürlüğü",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 98,
+    "tc": "21886669310",
+    "ad_soyad": "HAKAN KOÇAK",
+    "unvan": "FATURALANDIRMA UZMAN YARDIMCISI",
+    "isyeri": "ÇEDAŞ/ÇORUM",
+    "bolum": "Yazılım, Proje ve Süreç Geliştirme Müdürlüğü",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 99,
+    "tc": "11762002492",
+    "ad_soyad": "İBRAHİM CANBOLAT ",
+    "unvan": "ÖLÇÜM UZMANI",
+    "isyeri": "ÇEDAŞ/ÇORUM",
+    "bolum": "Ölçüm Birimi",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 100,
+    "tc": "31060365082",
+    "ad_soyad": "AYŞE YILMAZ",
+    "unvan": "HUKUK DÖKÜMANTASYON UZMANI",
+    "isyeri": "ÇEDAŞ/ÇORUM",
+    "bolum": "Hukuk Müşavirliği ",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 101,
+    "tc": "30493362606",
+    "ad_soyad": "HARUN ALPARSLAN ARSLAN",
+    "unvan": "İNSAN KAYNAKLARI UZMAN YARDIMCISI",
+    "isyeri": "ÇEDAŞ/ÇORUM",
+    "bolum": "İnsan Kaynakları Birimi",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 102,
+    "tc": "40972032456",
+    "ad_soyad": "MUSTAFA BUZACI",
+    "unvan": "GRAFİK TASARIM UZMANI",
+    "isyeri": "ÇEDAŞ/ÇORUM",
+    "bolum": "Müşteri Deneyimi & Satış ve Pazarlama Müdürlüğü",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 103,
+    "tc": "30742358800",
+    "ad_soyad": "AYŞEGÜL TOPÇU ",
+    "unvan": "ÇAĞRI MERKEZİ MÜŞTERİ TEMSİLCİSİ",
+    "isyeri": "ÇEDAŞ/ÇORUM",
+    "bolum": "Çağrı Merkezi Birimi",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 104,
+    "tc": "25660542752",
+    "ad_soyad": "MEHMET FURKAN ÇOBAN",
+    "unvan": "AVUKAT",
+    "isyeri": "ÇEDAŞ/ÇORUM",
+    "bolum": "Hukuk Müşavirliği ",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 105,
+    "tc": "21212275192",
+    "ad_soyad": "ÖMÜR SEFA KAPUCUOĞLU",
+    "unvan": "DEPO UZMANI",
+    "isyeri": "ÇEDAŞ/KASTAMONU",
+    "bolum": "Satınalma Müdürlüğü",
+    "sirket": "ÇEDAŞ"
+  },
+  {
+    "id": 106,
+    "tc": "34141776654",
+    "ad_soyad": "KASIM KAHRAMAN",
+    "unvan": "GENEL MÜDÜR",
+    "isyeri": "ÇORUMGAZ/ÇORUM",
+    "bolum": "Genel Müdürlük ",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 107,
+    "tc": "15625865682",
+    "ad_soyad": "AHMET BAŞAR",
+    "unvan": "TEMİZLİK GÖREVLİSİ",
+    "isyeri": "ÇORUMGAZ/ÇORUM",
+    "bolum": "İdari İşler-İK",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 108,
+    "tc": "33457295514",
+    "ad_soyad": "AHMET HAKAN ERAVCI",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "ÇORUMGAZ/DODURGA",
+    "bolum": "Operasyon Birimi",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 109,
+    "tc": "24928577598",
+    "ad_soyad": "AHMET KARABOĞA",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "ÇORUMGAZ/OĞUZLAR",
+    "bolum": "Operasyon Birimi",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 110,
+    "tc": "41689018962",
+    "ad_soyad": "ALİ KULA ",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "ÇORUMGAZ/İSKİLİP",
+    "bolum": "Operasyon Birimi",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 111,
+    "tc": "35242213024",
+    "ad_soyad": "ALİ SELİM ERDOĞAN",
+    "unvan": "DOĞALGAZ ACİL TEKNİKERİ",
+    "isyeri": "ÇORUMGAZ/ÇORUM",
+    "bolum": "Operasyon Birimi",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 112,
+    "tc": "40417051462",
+    "ad_soyad": "ALİ SERCAN ",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "ÇORUMGAZ/ÇORUM",
+    "bolum": "Operasyon Birimi",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 113,
+    "tc": "31675342652",
+    "ad_soyad": "ALP DİKER",
+    "unvan": "İÇ TESİSAT VE PROJE KONTROL YÖNETİCİSİ",
+    "isyeri": "ÇORUMGAZ/ÇORUM",
+    "bolum": "İç Tesisat ve Proje Birimi",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 114,
+    "tc": "10496038494",
+    "ad_soyad": "ALPER GEDİK",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "ÇORUMGAZ/İSKİLİP",
+    "bolum": "Operasyon Birimi",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 115,
+    "tc": "33976267238",
+    "ad_soyad": "ALPER KAYMAK",
+    "unvan": "DOĞAL GAZ İŞLETME BAKIM OPERATÖRÜ",
+    "isyeri": "ÇORUMGAZ/ÇORUM",
+    "bolum": "Operasyon Birimi",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 116,
+    "tc": "20011747732",
+    "ad_soyad": "AYHAN AKCAN",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "ÇORUMGAZ/SUNGURLU",
+    "bolum": "Operasyon Birimi",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 117,
+    "tc": "33517297298",
+    "ad_soyad": "BEKİR ANAÇOĞLU",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "ÇORUMGAZ/SUNGURLU",
+    "bolum": "Operasyon Birimi",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 118,
+    "tc": "23698610634",
+    "ad_soyad": "CAN ERMAN ÖZCAN",
+    "unvan": "SATIŞ UZMANI",
+    "isyeri": "ÇORUMGAZ/ÇORUM",
+    "bolum": "Müşteri Deneyimi & Satış ve Pazarlama Müdürlüğü",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 119,
+    "tc": "28255472342",
+    "ad_soyad": "CEMAL DAĞAŞAN",
+    "unvan": "MÜŞTERİ DENEYİMİ UZMANI",
+    "isyeri": "ÇORUMGAZ/ÇORUM",
+    "bolum": "Müşteri Deneyimi & Satış ve Pazarlama Müdürlüğü",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 120,
+    "tc": "20086718552",
+    "ad_soyad": "CENGİZ ERDOĞAN",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "ÇORUMGAZ/İSKİLİP",
+    "bolum": "Operasyon Birimi",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 121,
+    "tc": "29806406342",
+    "ad_soyad": "CİHAT KİRÇİ",
+    "unvan": "GÜVENLİK GÖREVLİSİ",
+    "isyeri": "ÇORUMGAZ/ÇORUM",
+    "bolum": "Güvenlik",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 122,
+    "tc": "15607878372",
+    "ad_soyad": "DENİZ TAŞAĞIL",
+    "unvan": "TAHSİLAT TAKİP UZMANI",
+    "isyeri": "ÇORUMGAZ/ÇORUM",
+    "bolum": "Müşteri Deneyimi & Satış ve Pazarlama Müdürlüğü",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 123,
+    "tc": "11977979954",
+    "ad_soyad": "EMRE KARAKAŞ",
+    "unvan": "DOĞALGAZ ACİL BAŞTEKNİKERİ",
+    "isyeri": "ÇORUMGAZ/ALACA",
+    "bolum": "Operasyon Birimi",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 124,
+    "tc": "36067206246",
+    "ad_soyad": "EMRE UZUN",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "ÇORUMGAZ/OĞUZLAR",
+    "bolum": "Operasyon Birimi",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 125,
+    "tc": "15727863784",
+    "ad_soyad": "EMRE ZEYBEK",
+    "unvan": "GÜVENLİK GÖREVLİSİ",
+    "isyeri": "ÇORUMGAZ/ÇORUM",
+    "bolum": "Güvenlik",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 126,
+    "tc": "28726442072",
+    "ad_soyad": "ERGÜL ILIMAN",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "ÇORUMGAZ/ÇORUM",
+    "bolum": "Operasyon Birimi",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 127,
+    "tc": "12667988614",
+    "ad_soyad": "ERKAN EKER",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "ÇORUMGAZ/ÇORUM",
+    "bolum": "Operasyon Birimi",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 128,
+    "tc": "37129161190",
+    "ad_soyad": "ERTAYLAN KANDEMİR",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "ÇORUMGAZ/ÇORUM",
+    "bolum": "Operasyon Birimi",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 129,
+    "tc": "33166294846",
+    "ad_soyad": "FATİH CAN",
+    "unvan": "İKRAM PERSONELİ",
+    "isyeri": "ÇORUMGAZ/ÇORUM",
+    "bolum": "İdari İşler-İK",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 130,
+    "tc": "41809021612",
+    "ad_soyad": "FATİH KOCAMANOĞLU",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "ÇORUMGAZ/SUNGURLU",
+    "bolum": "Operasyon Birimi",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 131,
+    "tc": "18574775330",
+    "ad_soyad": "FATİH ÖZMEN",
+    "unvan": "DOĞALGAZ ACİL BAŞTEKNİKERİ",
+    "isyeri": "ÇORUMGAZ/ÇORUM",
+    "bolum": "Operasyon Birimi",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 132,
+    "tc": "18274799254",
+    "ad_soyad": "FERHAT KİRAZ ",
+    "unvan": "DOĞALGAZ ACİL TEKNİKERİ",
+    "isyeri": "ÇORUMGAZ/OĞUZLAR",
+    "bolum": "Operasyon Birimi",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 133,
+    "tc": "23236618900",
+    "ad_soyad": "FERRUH KAYACIOĞLU",
+    "unvan": "MÜŞTERİ DENEYİMİ UZMANI",
+    "isyeri": "ÇORUMGAZ/ÇORUM",
+    "bolum": "Müşteri Deneyimi & Satış ve Pazarlama Müdürlüğü",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 134,
+    "tc": "30820370700",
+    "ad_soyad": "GÜLNUR KARAMAN AKTI",
+    "unvan": "MÜŞTERİ DENEYİMİ UZMANI",
+    "isyeri": "ÇORUMGAZ/ÇORUM",
+    "bolum": "Müşteri Deneyimi & Satış ve Pazarlama Müdürlüğü",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 135,
+    "tc": "13300970294",
+    "ad_soyad": "HAKAN KARSLI",
+    "unvan": "DOĞALGAZ ACİL TEKNİKERİ",
+    "isyeri": "ÇORUMGAZ/SUNGURLU",
+    "bolum": "Operasyon Birimi",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 136,
+    "tc": "25840527036",
+    "ad_soyad": "HAKAN KUŞÇU",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "ÇORUMGAZ/İSKİLİP",
+    "bolum": "Operasyon Birimi",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 137,
+    "tc": "24406566250",
+    "ad_soyad": "HAKAN ÖZDEMİR",
+    "unvan": "DOĞALGAZ ACİL TEKNİKERİ",
+    "isyeri": "ÇORUMGAZ/ALACA",
+    "bolum": "Operasyon Birimi",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 138,
+    "tc": "34186270360",
+    "ad_soyad": "HALİL İBRAHİM KINALITAŞ",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "ÇORUMGAZ/OSMANCIK",
+    "bolum": "Operasyon Birimi",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 139,
+    "tc": "20203720826",
+    "ad_soyad": "HAMİT DOĞAN",
+    "unvan": "DEPO UZMAN YARDIMCISI ",
+    "isyeri": "ÇORUMGAZ/ÇORUM",
+    "bolum": "Satın Alma Müdürlüğü",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 140,
+    "tc": "20071729402",
+    "ad_soyad": "HASAN FATİH EKER",
+    "unvan": "İÇ TESİSAT VE PROJE KONTROL MÜHENDİSİ",
+    "isyeri": "ÇORUMGAZ/ÇORUM",
+    "bolum": "İç Tesisat ve Proje Birimi",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 141,
+    "tc": "29506424912",
+    "ad_soyad": "HASAN HÜSEYİN SARIKAYA",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "ÇORUMGAZ/OĞUZLAR",
+    "bolum": "Operasyon Birimi",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 142,
+    "tc": "11093017776",
+    "ad_soyad": "HASAN KARAKUŞ",
+    "unvan": "ÖLÇÜM TEKNİSYENİ",
+    "isyeri": "ÇORUMGAZ/ÇORUM",
+    "bolum": "Operasyon Birimi",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 143,
+    "tc": "20302711466",
+    "ad_soyad": "HASAN KÖSE",
+    "unvan": "DOĞALGAZ ACİL TEKNİKERİ",
+    "isyeri": "ÇORUMGAZ/İSKİLİP",
+    "bolum": "Operasyon Birimi",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 144,
+    "tc": "18763773192",
+    "ad_soyad": "HASAN YILMAZ",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "ÇORUMGAZ/ÇORUM",
+    "bolum": "Operasyon Birimi",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 145,
+    "tc": "41548029542",
+    "ad_soyad": "HAYDAR ALİ DÖLKELEŞ",
+    "unvan": "ÖLÇÜM TEKNİKERİ",
+    "isyeri": "ÇORUMGAZ/ÇORUM",
+    "bolum": "Operasyon Birimi",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 146,
+    "tc": "27004487484",
+    "ad_soyad": "İSMAİL CAN ÇİLESİZ",
+    "unvan": "DOĞALGAZ ACİL TEKNİKERİ",
+    "isyeri": "ÇORUMGAZ/MECİTÖZÜ",
+    "bolum": "Operasyon Birimi",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 147,
+    "tc": "10940033594",
+    "ad_soyad": "İSMAİL DÖĞER",
+    "unvan": "DOĞALGAZ ACİL TEKNİKERİ",
+    "isyeri": "ÇORUMGAZ/MECİTÖZÜ",
+    "bolum": "Operasyon Birimi",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 148,
+    "tc": "20998710040",
+    "ad_soyad": "KADİR ZENGİN",
+    "unvan": "MÜŞTERİ DENEYİMİ UZMAN YARDIMCISI",
+    "isyeri": "ÇORUMGAZ/ÇORUM",
+    "bolum": "Müşteri Deneyimi & Satış ve Pazarlama Müdürlüğü",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 149,
+    "tc": "24412585382",
+    "ad_soyad": "KAMER BİLAN",
+    "unvan": "MÜŞTERİ DENEYİMİ UZMANI",
+    "isyeri": "ÇORUMGAZ/ÇORUM",
+    "bolum": "Müşteri Deneyimi & Satış ve Pazarlama Müdürlüğü",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 150,
+    "tc": "25762549628",
+    "ad_soyad": "KENAN KARABOYA",
+    "unvan": "DOĞALGAZ ACİL TEKNİKERİ",
+    "isyeri": "ÇORUMGAZ/İSKİLİP",
+    "bolum": "Operasyon Birimi",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 151,
+    "tc": "26098540082",
+    "ad_soyad": "MEHMET COŞTU",
+    "unvan": "SATIN ALMA UZMAN YARDIMCISI ",
+    "isyeri": "ÇORUMGAZ/ÇORUM",
+    "bolum": "Satın Alma Müdürlüğü",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 152,
+    "tc": "12062006456",
+    "ad_soyad": "MEHMET GÖKÇE",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "ÇORUMGAZ/DODURGA",
+    "bolum": "Operasyon Birimi",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 153,
+    "tc": "31387340144",
+    "ad_soyad": "MEHMET TETİK ",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "ÇORUMGAZ/ALACA",
+    "bolum": "Operasyon Birimi",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 154,
+    "tc": "36382184960",
+    "ad_soyad": "MERT AHMET TATAROĞLU",
+    "unvan": "ÖLÇÜM TEKNİKERİ",
+    "isyeri": "ÇORUMGAZ/ÇORUM",
+    "bolum": "Operasyon Birimi",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 155,
+    "tc": "28801454136",
+    "ad_soyad": "MESUT DAĞAŞAN",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "ÇORUMGAZ/SUNGURLU",
+    "bolum": "Operasyon Birimi",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 156,
+    "tc": "24031596516",
+    "ad_soyad": "MESUT ZEREN",
+    "unvan": "MÜŞTERİ DENEYİMİ YÖNETİCİSİ",
+    "isyeri": "ÇORUMGAZ/ÇORUM",
+    "bolum": "Müşteri Deneyimi & Satış ve Pazarlama Müdürlüğü",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 157,
+    "tc": "12760972442",
+    "ad_soyad": "MİKAİL ARSLAN",
+    "unvan": "DOĞALGAZ ACİL TEKNİKERİ",
+    "isyeri": "ÇORUMGAZ/ÇORUM",
+    "bolum": "Operasyon Birimi",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 158,
+    "tc": "20848719896",
+    "ad_soyad": "MUAMMER AKBALIK",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "ÇORUMGAZ/SUNGURLU",
+    "bolum": "Operasyon Birimi",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 159,
+    "tc": "15550890070",
+    "ad_soyad": "MUAMMER ARMUTCU",
+    "unvan": "DOĞALGAZ ACİL TEKNİKERİ",
+    "isyeri": "ÇORUMGAZ/MECİTÖZÜ",
+    "bolum": "Operasyon Birimi",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 160,
+    "tc": "40399051832",
+    "ad_soyad": "MUHAMMED AYDIN",
+    "unvan": "DOĞALGAZ ACİL TEKNİKERİ",
+    "isyeri": "ÇORUMGAZ/ÇORUM",
+    "bolum": "Operasyon Birimi",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 161,
+    "tc": "40360053810",
+    "ad_soyad": "MUHAMMET OKUTAN",
+    "unvan": "DOĞALGAZ ACİL BAŞTEKNİKERİ",
+    "isyeri": "ÇORUMGAZ/OSMANCIK",
+    "bolum": "Operasyon Birimi",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 162,
+    "tc": "32467332820",
+    "ad_soyad": "MURAT VARGELOĞLU",
+    "unvan": "DOĞALGAZ ACİL BAŞTEKNİSYENİ",
+    "isyeri": "ÇORUMGAZ/SUNGURLU",
+    "bolum": "Operasyon Birimi",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 163,
+    "tc": "28651458896",
+    "ad_soyad": "MUSTAFA AKGÜMÜŞ",
+    "unvan": "DOĞALGAZ ACİL TEKNİKERİ",
+    "isyeri": "ÇORUMGAZ/ALACA",
+    "bolum": "Operasyon Birimi",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 164,
+    "tc": "36700174468",
+    "ad_soyad": "MUSTAFA TANER ÇENESİZ",
+    "unvan": "İÇ TESİSAT VE PROJE KONTROL MÜHENDİSİ",
+    "isyeri": "ÇORUMGAZ/ÇORUM",
+    "bolum": "İç Tesisat ve Proje Birimi",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 165,
+    "tc": "26461505830",
+    "ad_soyad": "MUSTAFA TIĞLI",
+    "unvan": "DOĞALGAZ ACİL BAŞTEKNİSYENİ",
+    "isyeri": "ÇORUMGAZ/İSKİLİP",
+    "bolum": "Operasyon Birimi",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 166,
+    "tc": "27982477286",
+    "ad_soyad": "MUSTAFA YAZICI",
+    "unvan": "İÇ TESİSAT VE PROJE KONTROL MÜHENDİSİ",
+    "isyeri": "ÇORUMGAZ/ÇORUM",
+    "bolum": "İç Tesisat ve Proje Birimi",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 167,
+    "tc": "12742976154",
+    "ad_soyad": "MUZAFFER DİNÇAY",
+    "unvan": "BAKIM TEKNİKERİ",
+    "isyeri": "ÇORUMGAZ/ÇORUM",
+    "bolum": "Operasyon Birimi",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 168,
+    "tc": "26260123136",
+    "ad_soyad": "NECİBE DİKİCİ",
+    "unvan": "İKRAM PERSONELİ",
+    "isyeri": "ÇORUMGAZ/ÇORUM",
+    "bolum": "İdari İşler-İK",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 169,
+    "tc": "13309951102",
+    "ad_soyad": "NECMİ KARACA",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "ÇORUMGAZ/MECİTÖZÜ",
+    "bolum": "Operasyon Birimi",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 170,
+    "tc": "20455733728",
+    "ad_soyad": "NURTEN SOYSALBAŞ DORUKOĞLU",
+    "unvan": "MÜŞTERİ DENEYİMİ UZMANI",
+    "isyeri": "ÇORUMGAZ/ÇORUM",
+    "bolum": "Müşteri Deneyimi & Satış ve Pazarlama Müdürlüğü",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 171,
+    "tc": "18136781960",
+    "ad_soyad": "ONUR ALAN",
+    "unvan": "DOĞALGAZ ACİL TEKNİKERİ",
+    "isyeri": "ÇORUMGAZ/DODURGA",
+    "bolum": "Operasyon Birimi",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 172,
+    "tc": "33331289776",
+    "ad_soyad": "ONUR MART ",
+    "unvan": "ÖLÇÜM TEKNİKERİ",
+    "isyeri": "ÇORUMGAZ/ÇORUM",
+    "bolum": "Operasyon Birimi",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 173,
+    "tc": "10694051950",
+    "ad_soyad": "ORHAN SORKUN",
+    "unvan": "BAKIM BAŞTEKNİSYENİ",
+    "isyeri": "ÇORUMGAZ/ÇORUM",
+    "bolum": "Operasyon Birimi",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 174,
+    "tc": "25603534356",
+    "ad_soyad": "OSMAN   KARABOYA",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "ÇORUMGAZ/OĞUZLAR",
+    "bolum": "Operasyon Birimi",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 175,
+    "tc": "35899219400",
+    "ad_soyad": "ÖMER DOLUNAY",
+    "unvan": "ÖLÇÜM TEKNİSYENİ",
+    "isyeri": "ÇORUMGAZ/ÇORUM",
+    "bolum": "Operasyon Birimi",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 176,
+    "tc": "26113528064",
+    "ad_soyad": "ÖMER NECDET ŞAHİNBAŞ",
+    "unvan": "ÖLÇÜM TEKNİKERİ",
+    "isyeri": "ÇORUMGAZ/ÇORUM",
+    "bolum": "Operasyon Birimi",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 177,
+    "tc": "29914418244",
+    "ad_soyad": "RAFET KARAMAN",
+    "unvan": "ÖLÇÜM TEKNİKERİ",
+    "isyeri": "ÇORUMGAZ/ALACA",
+    "bolum": "Operasyon Birimi",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 178,
+    "tc": "20119748686",
+    "ad_soyad": "RAMAZAN BİLGİÇ",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "ÇORUMGAZ/ÇORUM",
+    "bolum": "Operasyon Birimi",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 179,
+    "tc": "26995510928",
+    "ad_soyad": "RAMAZAN ŞEKERCİ",
+    "unvan": "DOĞALGAZ ACİL TEKNİKERİ",
+    "isyeri": "ÇORUMGAZ/OSMANCIK",
+    "bolum": "Operasyon Birimi",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 180,
+    "tc": "16300851600",
+    "ad_soyad": "RECEP YÜCEL",
+    "unvan": "ÖLÇÜM TEKNİSYENİ",
+    "isyeri": "ÇORUMGAZ/ÇORUM",
+    "bolum": "Operasyon Birimi",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 181,
+    "tc": "38455113280",
+    "ad_soyad": "SALİM   KÖSE",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "ÇORUMGAZ/MECİTÖZÜ",
+    "bolum": "Operasyon Birimi",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 182,
+    "tc": "31399339730",
+    "ad_soyad": "SATI TETİK ALTUNTAŞ",
+    "unvan": "İÇ TESİSAT VE PROJE KONTROL UZMANI",
+    "isyeri": "ÇORUMGAZ/ÇORUM",
+    "bolum": "İç Tesisat ve Proje Birimi",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 183,
+    "tc": "37249157738",
+    "ad_soyad": "SEÇKİN KARAKÜTÜK",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "ÇORUMGAZ/ÇORUM",
+    "bolum": "Operasyon Birimi",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 184,
+    "tc": "13528957572",
+    "ad_soyad": "SELİM TULU",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "ÇORUMGAZ/OĞUZLAR",
+    "bolum": "Operasyon Birimi",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 185,
+    "tc": "19615734286",
+    "ad_soyad": "SELMAN YALÇIN",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "ÇORUMGAZ/İSKİLİP",
+    "bolum": "Operasyon Birimi",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 186,
+    "tc": "13651939872",
+    "ad_soyad": "Serap ALKAÇ",
+    "unvan": "İKRAM PERSONELİ",
+    "isyeri": "ÇORUMGAZ/ÇORUM",
+    "bolum": "İdari İşler-İK",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 187,
+    "tc": "15415897022",
+    "ad_soyad": "SEVİL AYDEMİR",
+    "unvan": "İÇ TESİSAT VE PROJE KONTROL UZMANI",
+    "isyeri": "ÇORUMGAZ/ÇORUM",
+    "bolum": "İç Tesisat ve Proje Birimi",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 188,
+    "tc": "15847871270",
+    "ad_soyad": "SEZGİN ŞAHİN",
+    "unvan": "ÖLÇÜM TEKNİKERİ",
+    "isyeri": "ÇORUMGAZ/ÇORUM",
+    "bolum": "Operasyon Birimi",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 189,
+    "tc": "14431919732",
+    "ad_soyad": "SİNAN FIRAT",
+    "unvan": "ÖLÇÜM TEKNİKERİ",
+    "isyeri": "ÇORUMGAZ/ÇORUM",
+    "bolum": "Güvenlik",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 190,
+    "tc": "17617799210",
+    "ad_soyad": "TANER ATMACA",
+    "unvan": "DOĞALGAZ ACİL TEKNİKERİ",
+    "isyeri": "ÇORUMGAZ/MECİTÖZÜ",
+    "bolum": "Operasyon Birimi",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 191,
+    "tc": "11471027700",
+    "ad_soyad": "TARIK BUĞRA GÖKÇE",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "ÇORUMGAZ/DODURGA",
+    "bolum": "Operasyon Birimi",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 192,
+    "tc": "31081374704",
+    "ad_soyad": "TOLGA ODABAŞI",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "ÇORUMGAZ/OSMANCIK",
+    "bolum": "Operasyon Birimi",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 193,
+    "tc": "15499881948",
+    "ad_soyad": "TOLGA TAŞAĞAL",
+    "unvan": "DOĞALGAZ ACİL TEKNİKERİ",
+    "isyeri": "ÇORUMGAZ/OSMANCIK",
+    "bolum": "Operasyon Birimi",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 194,
+    "tc": "23548595180",
+    "ad_soyad": "TOLGAHAN BİLGİLİ",
+    "unvan": "DOĞALGAZ ACİL TEKNİKERİ",
+    "isyeri": "ÇORUMGAZ/ALACA",
+    "bolum": "Operasyon Birimi",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 195,
+    "tc": "11669021152",
+    "ad_soyad": "TURGAY ESKİCİ",
+    "unvan": "DOĞALGAZ ACİL TEKNİKERİ",
+    "isyeri": "ÇORUMGAZ/OSMANCIK",
+    "bolum": "Operasyon Birimi",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 196,
+    "tc": "27334498662",
+    "ad_soyad": "UĞUR ÇIPLAK",
+    "unvan": "MÜŞTERİ DENEYİMİ UZMANI",
+    "isyeri": "ÇORUMGAZ/ÇORUM",
+    "bolum": "Müşteri Deneyimi & Satış ve Pazarlama Müdürlüğü",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 197,
+    "tc": "40447050206",
+    "ad_soyad": "ÜZEYİR AYDIN",
+    "unvan": "BAKIM TEKNİKERİ",
+    "isyeri": "ÇORUMGAZ/ÇORUM",
+    "bolum": "Operasyon Birimi",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 198,
+    "tc": "32071330144",
+    "ad_soyad": "YASİN KAYA",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "ÇORUMGAZ/ÇORUM",
+    "bolum": "Operasyon Birimi",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 199,
+    "tc": "17107830850",
+    "ad_soyad": "YÜCEL BURAK POYRAZ ",
+    "unvan": "İÇ TESİSAT VE PROJE KONTROL MÜHENDİSİ",
+    "isyeri": "ÇORUMGAZ/ÇORUM",
+    "bolum": "İç Tesisat ve Proje Birimi",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 200,
+    "tc": "17692810206",
+    "ad_soyad": "ZEKİ ÇAPKIN ",
+    "unvan": "ÖLÇÜM TEKNİKERİ",
+    "isyeri": "ÇORUMGAZ/ÇORUM",
+    "bolum": "Operasyon Birimi",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 201,
+    "tc": "12817960880",
+    "ad_soyad": "ZEKKERİYA TUNAHAN KAYMAK",
+    "unvan": "ÖLÇÜM TEKNİKERİ",
+    "isyeri": "ÇORUMGAZ/ÇORUM",
+    "bolum": "Operasyon Birimi",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 202,
+    "tc": "28582021626",
+    "ad_soyad": "ZEYNEP ŞİMŞEK",
+    "unvan": "İKRAM PERSONELİ",
+    "isyeri": "ÇORUMGAZ/ÇORUM",
+    "bolum": "İdari İşler-İK",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 203,
+    "tc": "21868681224",
+    "ad_soyad": "MEHMET ALİ KOCA",
+    "unvan": "GÜVENLİK AMİRİ",
+    "isyeri": "ÇORUMGAZ/ÇORUM",
+    "bolum": "Güvenlik",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 204,
+    "tc": "39377170658",
+    "ad_soyad": "ENES KAYA ",
+    "unvan": "İÇ TESİSAT VE PROJE KONTROL MÜHENDİSİ",
+    "isyeri": "ÇORUMGAZ/ÇORUM",
+    "bolum": "İç Tesisat ve Proje Birimi",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 205,
+    "tc": "14395496898",
+    "ad_soyad": "GÜLAMİ NACAKCI",
+    "unvan": "BAKIM TEKNİSYENİ",
+    "isyeri": "ÇORUMGAZ/ÇORUM",
+    "bolum": "Operasyon Birimi",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 206,
+    "tc": "25144562504",
+    "ad_soyad": "BİROL ÇETİNTAŞ",
+    "unvan": "DEPO UZMANI",
+    "isyeri": "ÇORUMGAZ/ÇORUM",
+    "bolum": "Satın Alma Müdürlüğü",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 207,
+    "tc": "30280388338",
+    "ad_soyad": "SEMA DOĞAN",
+    "unvan": "SEKRETER",
+    "isyeri": "ÇORUMGAZ/ÇORUM",
+    "bolum": "İdari İşler-İK",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 208,
+    "tc": "36400180158",
+    "ad_soyad": "SİBEL GÖKGÖZ",
+    "unvan": "GÜVENLİK GÖREVLİSİ",
+    "isyeri": "ÇORUMGAZ/ÇORUM",
+    "bolum": "Güvenlik",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 209,
+    "tc": "17872802038",
+    "ad_soyad": "AHMET FARUK YERLİ",
+    "unvan": "OPERASYON YÖNETİCİSİ",
+    "isyeri": "ÇORUMGAZ/ÇORUM",
+    "bolum": "Operasyon Birimi",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 210,
+    "tc": "39730075576",
+    "ad_soyad": "BURÇİN KIRIŞ BAYIR",
+    "unvan": "ETÜD PROJE VE CBS MÜHENDİSİ",
+    "isyeri": "ÇORUMGAZ/ÇORUM",
+    "bolum": "Etüd Proje ve CBS Birimi",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 211,
+    "tc": "11699018498",
+    "ad_soyad": "HALİT ŞAHİN",
+    "unvan": "RMS-A TEKNİSYENİ",
+    "isyeri": "ÇORUMGAZ/ÇORUM",
+    "bolum": "Operasyon Birimi",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 212,
+    "tc": "16261866354",
+    "ad_soyad": "ZİYA EMİROĞLU",
+    "unvan": "YAPIM KONTROL TEKNİSYENİ",
+    "isyeri": "ÇORUMGAZ/ÇORUM",
+    "bolum": "Operasyon Birimi",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 213,
+    "tc": "36220190924",
+    "ad_soyad": "HATİCE ŞAHİN ",
+    "unvan": "İKRAM PERSONELİ",
+    "isyeri": "ÇORUMGAZ/ÇORUM",
+    "bolum": "İdari İşler-İK",
+    "sirket": "ÇORUMGAZ"
+  },
+  {
+    "id": 214,
+    "tc": "24133556616",
+    "ad_soyad": "ABDURRAHMAN KADİR CANSIZ",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "KARGAZ/KORGUN",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 215,
+    "tc": "23656576910",
+    "ad_soyad": "AHMET AKDENİZ",
+    "unvan": "İDARİ İŞLER VE İK UZMAN YARDIMCISI",
+    "isyeri": "KARGAZ/ÇANKIRI",
+    "bolum": "Çankırı İl Müdürlüğü",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 216,
+    "tc": "44602501428",
+    "ad_soyad": "AHMET CALKAZAN",
+    "unvan": "TEMİZLİK GÖREVLİSİ ",
+    "isyeri": "KARGAZ/KASTAMONU",
+    "bolum": "Kastamonu İl Müdürlüğü",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 217,
+    "tc": "13913528530",
+    "ad_soyad": "AHMET CAN ÇAĞLAR",
+    "unvan": "ÖLÇÜM TEKNİSYENİ",
+    "isyeri": "KARGAZ/TAŞKÖPRÜ",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 218,
+    "tc": "37006136174",
+    "ad_soyad": "AHMET CEYLAN",
+    "unvan": "ÖLÇÜM TEKNİKERİ",
+    "isyeri": "KARGAZ/ÇANKIRI",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 219,
+    "tc": "34744209306",
+    "ad_soyad": "AHMET MUHAMMED ARILIKALTI",
+    "unvan": "DOĞALGAZ ACİL TEKNİKERİ",
+    "isyeri": "KARGAZ/KURŞUNLU",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 220,
+    "tc": "30865332190",
+    "ad_soyad": "ALİ ÇAĞIRAN",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "KARGAZ/ELDİVAN",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 221,
+    "tc": "30577346904",
+    "ad_soyad": "ALİ ERSOY",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "KARGAZ/KORGUN",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 222,
+    "tc": "17224783060",
+    "ad_soyad": "ALİ KARŞIYAKA",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "KARGAZ/ÇERKEŞ",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 223,
+    "tc": "14042527128",
+    "ad_soyad": "ALİ OSMAN SİREKBASAN",
+    "unvan": "ÖLÇÜM TEKNİKERİ",
+    "isyeri": "KARGAZ/TOSYA",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 224,
+    "tc": "19507750868",
+    "ad_soyad": "ALPER ÇÖL",
+    "unvan": "ŞOFÖR",
+    "isyeri": "KARGAZ/ÇORUM",
+    "bolum": "İdari İşler-İK",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 225,
+    "tc": "12388948058",
+    "ad_soyad": "AYHAN KILINÇ",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "KARGAZ/ELDİVAN",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 226,
+    "tc": "16750811346",
+    "ad_soyad": "AYŞE ÖZDEMİR",
+    "unvan": "İKRAM PERSONELİ",
+    "isyeri": "KARGAZ/ÇANKIRI",
+    "bolum": "Çankırı İl Müdürlüğü",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 227,
+    "tc": "36790138838",
+    "ad_soyad": "BAHATTİN AKAR",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "KARGAZ/ÇANKIRI",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 228,
+    "tc": "24919538720",
+    "ad_soyad": "BARIŞ TUTUKKAYA",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "KARGAZ/ÇANKIRI",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 229,
+    "tc": "21860608168",
+    "ad_soyad": "BİLAL ÜSTÜN",
+    "unvan": "DOĞALGAZ ACİL TEKNİKERİ",
+    "isyeri": "KARGAZ/KASTAMONU",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 230,
+    "tc": "25864494888",
+    "ad_soyad": "BURAK ERÇELEN ",
+    "unvan": "DOĞALGAZ ACİL TEKNİKERİ",
+    "isyeri": "KARGAZ/ATKARACALAR ",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 231,
+    "tc": "12472945420",
+    "ad_soyad": "BURAK GÜLCAN",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "KARGAZ/KIZILIRMAK",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 232,
+    "tc": "34513214722",
+    "ad_soyad": "BURAK GÜNEŞ",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "KARGAZ/KIZILIRMAK",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 233,
+    "tc": "16666812444",
+    "ad_soyad": "BURAK KARAKAYA",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "KARGAZ/KURŞUNLU",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 234,
+    "tc": "54535384210",
+    "ad_soyad": "BURAK KURTOĞLU",
+    "unvan": "KASTAMONU İL MÜDÜRÜ",
+    "isyeri": "KARGAZ/KASTAMONU",
+    "bolum": "Operasyonlar ve Yatırımlar Genel Müdür Yardımcılığı",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 235,
+    "tc": "20641681222",
+    "ad_soyad": "BÜŞRA SARAÇBAŞI",
+    "unvan": "İDARİ İŞLER UZMAN YARDIMCISI",
+    "isyeri": "KARGAZ/ÇANKIRI",
+    "bolum": "Çankırı İl Müdürlüğü",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 236,
+    "tc": "23000533118",
+    "ad_soyad": "CENGİZ MANCOĞLU",
+    "unvan": "KARABÜK İL MÜDÜRÜ",
+    "isyeri": "KARGAZ/KARABÜK",
+    "bolum": "Operasyonlar ve Yatırımlar Genel Müdür Yardımcılığı",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 237,
+    "tc": "56524107336",
+    "ad_soyad": "CEVAT İŞLER",
+    "unvan": "BAKIM TEKNİSYENİ",
+    "isyeri": "KARGAZ/KASTAMONU",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 238,
+    "tc": "32455287422",
+    "ad_soyad": "CİHAN ASTARLIOGLU",
+    "unvan": "MÜŞTERİ DENEYİMİ VE SATIŞ YÖNETİCİSİ",
+    "isyeri": "KARGAZ/ÇANKIRI",
+    "bolum": "Müşteri Deneyimi & Satış ve Pazarlama Müdürlüğü",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 239,
+    "tc": "54220185962",
+    "ad_soyad": "CİHAN GÜLER",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "KARGAZ/SEYDİLER",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 240,
+    "tc": "21427644448",
+    "ad_soyad": "DAVUT ÖREN",
+    "unvan": "DOĞALGAZ ACİL TESİSATÇI",
+    "isyeri": "KARGAZ/ÇERKEŞ",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 241,
+    "tc": "31063341540",
+    "ad_soyad": "DURSUN YILDIRIM",
+    "unvan": "BAKIM TEKNİSYENİ",
+    "isyeri": "KARGAZ/ÇANKIRI",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 242,
+    "tc": "71161148054",
+    "ad_soyad": "EBRU TAŞKALE",
+    "unvan": "İÇ TESİSAT VE PROJE KONTROL UZMANI",
+    "isyeri": "KARGAZ/KARABÜK",
+    "bolum": "İç Tesisat ve Proje Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 243,
+    "tc": "33385278672",
+    "ad_soyad": "EDA KABAK KARAGÜLLE",
+    "unvan": "SATIŞ UZMANI",
+    "isyeri": "KARGAZ/KARABÜK",
+    "bolum": "Müşteri Deneyimi & Satış ve Pazarlama Müdürlüğü",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 244,
+    "tc": "25375521684",
+    "ad_soyad": "EKREM ONSUN",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "KARGAZ/KURŞUNLU",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 245,
+    "tc": "15288013086",
+    "ad_soyad": "EKREM TAŞKIRAN",
+    "unvan": "BAKIM TEKNİKERİ",
+    "isyeri": "KARGAZ/KARABÜK",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 246,
+    "tc": "31613467170",
+    "ad_soyad": "EMRAH YILMAZ",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "KARGAZ/KARABÜK",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 247,
+    "tc": "33628241920",
+    "ad_soyad": "EMRE KIRIŞ",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "KARGAZ/ILGAZ",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 248,
+    "tc": "58831560972",
+    "ad_soyad": "EMRE ÖNÜT",
+    "unvan": "İÇ TESİSAT VE PROJE KONTROL MÜHENDİSİ",
+    "isyeri": "KARGAZ/KASTAMONU",
+    "bolum": "İç Tesisat ve Proje Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 249,
+    "tc": "48583362818",
+    "ad_soyad": "EMRECAN GÜR",
+    "unvan": "DOĞALGAZ ACİL TEKNİKERİ",
+    "isyeri": "KARGAZ/DEVREKANİ",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 250,
+    "tc": "23635582420",
+    "ad_soyad": "EMRULLAH DUMAN",
+    "unvan": "SATIŞ UZMANI",
+    "isyeri": "KARGAZ/ÇANKIRI",
+    "bolum": "Müşteri Deneyimi & Satış ve Pazarlama Müdürlüğü",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 251,
+    "tc": "10313026130",
+    "ad_soyad": "ENES ALTIN",
+    "unvan": "OPERASYON MÜHENDİSİ",
+    "isyeri": "KARGAZ/ÇANKIRI",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 252,
+    "tc": "35758788078",
+    "ad_soyad": "ENGİN GÜL",
+    "unvan": "DOĞALGAZ ACİL TEKNİKERİ",
+    "isyeri": "KARGAZ/KARABÜK",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 253,
+    "tc": "31363322058",
+    "ad_soyad": "ERDEM BALCI",
+    "unvan": "MÜŞTERİ DENEYİMİ UZMANI",
+    "isyeri": "KARGAZ/KURŞUNLU",
+    "bolum": "Müşteri Deneyimi & Satış ve Pazarlama Müdürlüğü",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 254,
+    "tc": "19375729294",
+    "ad_soyad": "EREN MADENOĞLU",
+    "unvan": "DOĞALGAZ ACİL TEKNİKERİ",
+    "isyeri": "KARGAZ/ŞABANÖZÜ",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 255,
+    "tc": "38311093244",
+    "ad_soyad": "ERGÜL YILMAZ ",
+    "unvan": "DOĞALGAZ ACİL TEKNİKERİ",
+    "isyeri": "KARGAZ/ÇANKIRI",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 256,
+    "tc": "41531135946",
+    "ad_soyad": "ERSİN ÖZDEMİR",
+    "unvan": "DOĞALGAZ ACİL TEKNİKERİ",
+    "isyeri": "KARGAZ/SAFRANBOLU",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 257,
+    "tc": "42632100840",
+    "ad_soyad": "ERSİN YAVUZ",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "KARGAZ/KARABÜK",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 258,
+    "tc": "16451439238",
+    "ad_soyad": "ESRA TUZCU",
+    "unvan": "MÜŞTERİ DENEYİMİ VE SATIŞ YÖNETİCİSİ",
+    "isyeri": "KARGAZ/KASTAMONU",
+    "bolum": "Müşteri Deneyimi & Satış ve Pazarlama Müdürlüğü",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 259,
+    "tc": "15412848430",
+    "ad_soyad": "EŞREF KARACAOĞLU",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "KARGAZ/ILGAZ",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 260,
+    "tc": "28781033406",
+    "ad_soyad": "ETHEM KAVALCI",
+    "unvan": "DOĞALGAZ ACİLBAŞTEKNİSYENİ",
+    "isyeri": "KARGAZ/TAŞKÖPRÜ",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 261,
+    "tc": "36670143112",
+    "ad_soyad": "EYÜP SARI",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYEN",
+    "isyeri": "KARGAZ/ÇANKIRI",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 262,
+    "tc": "38293098732",
+    "ad_soyad": "FATİH ABBAS",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "KARGAZ/ŞABANÖZÜ",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 263,
+    "tc": "51976254942",
+    "ad_soyad": "FATİH KADİRUSTAOĞLU",
+    "unvan": "DOĞALGAZ ACİL TEKNİKERİ",
+    "isyeri": "KARGAZ/KASTAMONU",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 264,
+    "tc": "69913190536",
+    "ad_soyad": "FATİH REYHANOĞLU",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "KARGAZ/KARABÜK",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 265,
+    "tc": "32425899204",
+    "ad_soyad": "FATİH YILMAZ",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "KARGAZ/SEYDİLER",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 266,
+    "tc": "12483089724",
+    "ad_soyad": "FATMA ÇELİK",
+    "unvan": "İKRAM PERSONELİ",
+    "isyeri": "KARGAZ/KARABÜK",
+    "bolum": "Karabük İl Müdürlüğü",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 267,
+    "tc": "14155890676",
+    "ad_soyad": "FERHAT IŞIK",
+    "unvan": "MÜŞTERİ DENEYİMİ UZMANI",
+    "isyeri": "KARGAZ/ÇANKIRI",
+    "bolum": "Müşteri Deneyimi & Satış ve Pazarlama Müdürlüğü",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 268,
+    "tc": "51109284426",
+    "ad_soyad": "GÖKHAN ŞAHİNOĞLU",
+    "unvan": "İÇ TESİSAT VE PROJE KONTROL UZMANI",
+    "isyeri": "KARGAZ/KASTAMONU",
+    "bolum": "İç Tesisat ve Proje Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 269,
+    "tc": "54469172570",
+    "ad_soyad": "GÖKHAN YANIKOĞLU",
+    "unvan": "DOĞALGAZ ACİL TEKNİKERİ",
+    "isyeri": "KARGAZ/KASTAMONU",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 270,
+    "tc": "33235879752",
+    "ad_soyad": "GÖRKEM ERDEM ÖKTEN",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "KARGAZ/KASTAMONU",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 271,
+    "tc": "17375413168",
+    "ad_soyad": "GÜLAY YILMAZ",
+    "unvan": "İDARİ İŞLER VE İK UZMANI",
+    "isyeri": "KARGAZ/KASTAMONU",
+    "bolum": "Kastamonu İl Müdürlüğü",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 272,
+    "tc": "14444606414",
+    "ad_soyad": "GÜLİN ÖKSÜZ",
+    "unvan": "MÜŞTERİ DENEYİMİ UZMANI",
+    "isyeri": "KARGAZ/KARABÜK",
+    "bolum": "Müşteri Deneyimi & Satış ve Pazarlama Müdürlüğü",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 273,
+    "tc": "44092525348",
+    "ad_soyad": "HAKAN İNAN",
+    "unvan": "DOĞALGAZ ACİL BAŞTEKNİKERİ",
+    "isyeri": "KARGAZ/TOSYA",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 274,
+    "tc": "45835456448",
+    "ad_soyad": "HAMDİ MAHMUTOGLU",
+    "unvan": "DOĞALGAZ ACİL BAŞTEKNİKERİ",
+    "isyeri": "KARGAZ/KASTAMONU",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 275,
+    "tc": "45805468358",
+    "ad_soyad": "HASAN ALİ TURAN",
+    "unvan": "DOĞALGAZ ACİL TEKNİKERİ",
+    "isyeri": "KARGAZ/TOSYA",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 276,
+    "tc": "70318029246",
+    "ad_soyad": "HASAN BALTACI",
+    "unvan": "DOĞALGAZ ACİL TEKNİKERİ",
+    "isyeri": "KARGAZ/ILGAZ",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 277,
+    "tc": "53461203374",
+    "ad_soyad": "HASAN DEMİR",
+    "unvan": "OPERASYON YÖNETİCİSİ",
+    "isyeri": "KARGAZ/KASTAMONU",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 278,
+    "tc": "32842266306",
+    "ad_soyad": "HASAN HÜSEYİN ARSLAN",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "KARGAZ/ELDİVAN",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 279,
+    "tc": "21658645580",
+    "ad_soyad": "HASAN YAĞMUROĞLU",
+    "unvan": "DOĞALGAZ ACİL TEKNİKERİ",
+    "isyeri": "KARGAZ/KURŞUNLU",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 280,
+    "tc": "22502769902",
+    "ad_soyad": "HASAN YAYLACI",
+    "unvan": "BAKIM TEKNİKERİ",
+    "isyeri": "KARGAZ/KARABÜK",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 281,
+    "tc": "36415151310",
+    "ad_soyad": "HÜSEYİN BULUT",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "KARGAZ/KIZILIRMAK",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 282,
+    "tc": "30655339262",
+    "ad_soyad": "HÜSEYİN SARICI",
+    "unvan": "DOĞALGAZ ACİL BAŞTEKNİKERİ",
+    "isyeri": "KARGAZ/ÇANKIRI",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 283,
+    "tc": "16055985964",
+    "ad_soyad": "İBRAHİM AYDIN",
+    "unvan": "BAKIM TEKNİSYENİ",
+    "isyeri": "KARGAZ/KARABÜK",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 284,
+    "tc": "53857197768",
+    "ad_soyad": "İHSAN GAZİ ILGAZ",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "KARGAZ/TAŞKÖPRÜ",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 285,
+    "tc": "17095787228",
+    "ad_soyad": "İLHAMİ SANCI",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "KARGAZ/KURŞUNLU",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 286,
+    "tc": "27260611432",
+    "ad_soyad": "İSA BAŞPINAR",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "KARGAZ/ESKİPAZAR",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 287,
+    "tc": "21722795364",
+    "ad_soyad": "İSMAİL BAYRAM",
+    "unvan": "İÇ TESİSAT VE PROJE KONTROL MÜHENDİSİ",
+    "isyeri": "KARGAZ/KASTAMONU",
+    "bolum": "İç Tesisat ve Proje Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 288,
+    "tc": "53374205144",
+    "ad_soyad": "İSMAİL SİGUT",
+    "unvan": "DOĞALGAZ ACİL TEKNİKERİ",
+    "isyeri": "KARGAZ/KASTAMONU",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 289,
+    "tc": "16696681294",
+    "ad_soyad": "İSMAİL TABAK",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "KARGAZ/GEREDE",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 290,
+    "tc": "33070297810",
+    "ad_soyad": "İSMAİL UZUNER",
+    "unvan": "BEKÇİ",
+    "isyeri": "KARGAZ/ÇORUM",
+    "bolum": "İdari İşler-İK",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 291,
+    "tc": "52849226424",
+    "ad_soyad": "İSMAİL YAKUPOGLU",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "KARGAZ/KASTAMONU",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 292,
+    "tc": "32764146632",
+    "ad_soyad": "İZZET ÇELİK",
+    "unvan": "DOĞALGAZ ACİL TEKNİKERİ",
+    "isyeri": "KARGAZ/GEREDE",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 293,
+    "tc": "32026309386",
+    "ad_soyad": "KADİR KARA",
+    "unvan": "DOĞALGAZ ACİL TEKNİKERİ",
+    "isyeri": "KARGAZ/ŞABANÖZÜ",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 294,
+    "tc": "36373775696",
+    "ad_soyad": "KAMİL GÖKMEN",
+    "unvan": "DOĞALGAZ ACİL TEKNİKERİ",
+    "isyeri": "KARGAZ/KASTAMONU",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 295,
+    "tc": "27640453898",
+    "ad_soyad": "KAMİL SUHTA",
+    "unvan": "DOĞALGAZ ACİL BAŞTEKNİKERİ",
+    "isyeri": "KARGAZ/ŞABANÖZÜ",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 296,
+    "tc": "57631071718",
+    "ad_soyad": "KENAN ALAY",
+    "unvan": "DOĞALGAZ ACİL TEKNİKERİ",
+    "isyeri": "KARGAZ/TAŞKÖPRÜ",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 297,
+    "tc": "51859545518",
+    "ad_soyad": "KEREM YEŞİLYURT",
+    "unvan": "OPERASYON YÖNETİCİSİ",
+    "isyeri": "KARGAZ/KARABÜK",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 298,
+    "tc": "37060134420",
+    "ad_soyad": "KERİM DEDE",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "KARGAZ/ŞABANÖZÜ",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 299,
+    "tc": "46624966834",
+    "ad_soyad": "KÜBRA GÜLER",
+    "unvan": "İDARİ İŞLER VE İK UZMANI",
+    "isyeri": "KARGAZ/KARABÜK",
+    "bolum": "Karabük İl Müdürlüğü",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 300,
+    "tc": "58888044296",
+    "ad_soyad": "LEVENT CERAN",
+    "unvan": "ÇANKIRI İL MÜDÜRÜ",
+    "isyeri": "KARGAZ/ÇANKIRI",
+    "bolum": "Operasyonlar ve Yatırımlar Genel Müdür Yardımcılığı",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 301,
+    "tc": "54013187616",
+    "ad_soyad": "LÜTFİ KIRCIOĞLU",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "KARGAZ/KASTAMONU",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 302,
+    "tc": "35320796814",
+    "ad_soyad": "MAHMUT HÜDAİ SERT",
+    "unvan": "SATIŞ UZMAN YARDIMCISI",
+    "isyeri": "KARGAZ/KASTAMONU",
+    "bolum": "Müşteri Deneyimi & Satış ve Pazarlama Müdürlüğü",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 303,
+    "tc": "38353091260",
+    "ad_soyad": "MEHMET ALİ CEYHANİ",
+    "unvan": "İÇ TESİSAT VE PROJE KONTROL UZMANI",
+    "isyeri": "KARGAZ/ÇANKIRI",
+    "bolum": "İç Tesisat ve Proje Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 304,
+    "tc": "13277553070",
+    "ad_soyad": "MEHMET DEMİRCİ",
+    "unvan": "DOĞALGAZ ACİL TEKNİKERİ",
+    "isyeri": "KARGAZ/TOSYA",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 305,
+    "tc": "58843022888",
+    "ad_soyad": "MEHMET ONUR ÇALIŞKAN",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "KARGAZ/SEYDİLER",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 306,
+    "tc": "38026094574",
+    "ad_soyad": "MESUT GENCER",
+    "unvan": "DOĞALGAZ ACİL BAŞTEKNİSYENİ",
+    "isyeri": "KARGAZ/ILGAZ",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 307,
+    "tc": "22622227184",
+    "ad_soyad": "METEHAN YENİKOMŞU",
+    "unvan": "SCADA TEKNİKERİ",
+    "isyeri": "KARGAZ/KASTAMONU",
+    "bolum": "Scada Müdürlüğü",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 308,
+    "tc": "18265760768",
+    "ad_soyad": "MEVLÜT GÜRÜN",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "KARGAZ/ÇANKIRI",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 309,
+    "tc": "23662576614",
+    "ad_soyad": "MUHAMMED KARIŞMAZ",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "KARGAZ/ÇANKIRI",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 310,
+    "tc": "17705397830",
+    "ad_soyad": "MUHAMMED SİNANOĞLU",
+    "unvan": "BAKIM TEKNİSYENİ",
+    "isyeri": "KARGAZ/KASTAMONU",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 311,
+    "tc": "15827992698",
+    "ad_soyad": "MUHAMMET ÇELİK",
+    "unvan": "MÜŞTERİ DENEYİMİ UZMAN YARDIMCISI",
+    "isyeri": "KARGAZ/KARABÜK",
+    "bolum": "Müşteri Deneyimi & Satış ve Pazarlama Müdürlüğü",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 312,
+    "tc": "14273516694",
+    "ad_soyad": "MUHARREM ÇAKIR",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "KARGAZ/TAŞKÖPRÜ",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 313,
+    "tc": "51139277566",
+    "ad_soyad": "MURAT ANYIĞ",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "KARGAZ/SEYDİLER",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 314,
+    "tc": "25732507528",
+    "ad_soyad": "MURAT BİLGİCİ",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "KARGAZ/KIZILIRMAK",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 315,
+    "tc": "20635678344",
+    "ad_soyad": "MURAT KANIK",
+    "unvan": "DOĞALGAZ ACİL TEKNİKERİ",
+    "isyeri": "KARGAZ/KORGUN",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 316,
+    "tc": "14425888426",
+    "ad_soyad": "MURAT KARAAGAC",
+    "unvan": "BAKIM TEKNİSYENİ",
+    "isyeri": "KARGAZ/ÇANKIRI",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 317,
+    "tc": "51196286020",
+    "ad_soyad": "MURAT SARIBAŞ",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "KARGAZ/TAŞKÖPRÜ",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 318,
+    "tc": "13105801762",
+    "ad_soyad": "MUSA KIYMAZARSLAN",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "KARGAZ/GEREDE",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 319,
+    "tc": "50992820230",
+    "ad_soyad": "MUSTAFA AKÇAY",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "KARGAZ/ESKİPAZAR",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 320,
+    "tc": "15959459366",
+    "ad_soyad": "MUSTAFA HAKDAN UYANIK",
+    "unvan": "BAKIM BAŞTEKNİKERİ",
+    "isyeri": "KARGAZ/KASTAMONU",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 321,
+    "tc": "30643335658",
+    "ad_soyad": "MUSTAFA SARIKAYA",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "KARGAZ/ORTA",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 322,
+    "tc": "31012335682",
+    "ad_soyad": "MUSTAFA SEMERCİ",
+    "unvan": "ÖLÇÜM TEKNİKERİ",
+    "isyeri": "KARGAZ/ÇANKIRI",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 323,
+    "tc": "14464887350",
+    "ad_soyad": "MUZAFFER ELVAN",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "KARGAZ/ÇANKIRI",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 324,
+    "tc": "27797594550",
+    "ad_soyad": "MÜCAHİT MUSTAFA ÖZÇELİK",
+    "unvan": "DOĞALGAZ ACİL BAŞTEKNİKERİ",
+    "isyeri": "KARGAZ/KARABÜK",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 325,
+    "tc": "46960427020",
+    "ad_soyad": "NECATİ TUNUSLUOĞLU",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "KARGAZ/TAŞKÖPRÜ",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 326,
+    "tc": "34798217180",
+    "ad_soyad": "NEDİM EFE",
+    "unvan": "BAKIM BAŞTEKNİKERİ",
+    "isyeri": "KARGAZ/ÇANKIRI",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 327,
+    "tc": "26725346612",
+    "ad_soyad": "NİDA SOLUN",
+    "unvan": "MÜŞTERİ DENEYİMİ UZMANI",
+    "isyeri": "KARGAZ/GEREDE",
+    "bolum": "Müşteri Deneyimi & Satış ve Pazarlama Müdürlüğü",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 328,
+    "tc": "13161082440",
+    "ad_soyad": "NİHAT SAVAŞ",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "KARGAZ/KARABÜK",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 329,
+    "tc": "25120521716",
+    "ad_soyad": "NURETTİN KEMELDERE",
+    "unvan": "OPERASYON MÜHENDİSİ",
+    "isyeri": "KARGAZ/KARABÜK",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 330,
+    "tc": "33961106740",
+    "ad_soyad": "NURİ CANDAN",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "KARGAZ/GEREDE",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 331,
+    "tc": "38171088466",
+    "ad_soyad": "NURİ ERDOĞAN",
+    "unvan": "MÜŞTERİ DENEYİMİ UZMAN YARDIMCISI",
+    "isyeri": "KARGAZ/KASTAMONU",
+    "bolum": "Müşteri Deneyimi & Satış ve Pazarlama Müdürlüğü",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 332,
+    "tc": "24941689766",
+    "ad_soyad": "NURULLAH DEMİRSOY",
+    "unvan": "MÜŞTERİ DENEYİMİ VE SATIŞ YÖNETİCİSİ",
+    "isyeri": "KARGAZ/KARABÜK",
+    "bolum": "Müşteri Deneyimi & Satış ve Pazarlama Müdürlüğü",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 333,
+    "tc": "50584833860",
+    "ad_soyad": "NURULLAH ŞAHİN",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "KARGAZ/ESKİPAZAR",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 334,
+    "tc": "15044132808",
+    "ad_soyad": "OĞUZ GENÇ",
+    "unvan": "DOĞALGAZ ACİL TEKNİKERİ",
+    "isyeri": "KARGAZ/TAŞKÖPRÜ",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 335,
+    "tc": "15806447768",
+    "ad_soyad": "ORHAN GÜZEL",
+    "unvan": "TAHSİLAT TAKİP UZMANI",
+    "isyeri": "KARGAZ/KASTAMONU",
+    "bolum": "Müşteri Deneyimi & Satış ve Pazarlama Müdürlüğü",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 336,
+    "tc": "26191484184",
+    "ad_soyad": "OSMAN ASLAN",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "KARGAZ/ORTA",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 337,
+    "tc": "12055970672",
+    "ad_soyad": "OSMAN DURSUN",
+    "unvan": "DOĞALGAZ ACİL TEKNİKERİ",
+    "isyeri": "KARGAZ/ORTA",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 338,
+    "tc": "47512763320",
+    "ad_soyad": "ÖMER ŞENTÜRK",
+    "unvan": "SCADA TEKNİKERİ",
+    "isyeri": "KARGAZ/KARABÜK",
+    "bolum": "Scada Müdürlüğü",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 339,
+    "tc": "13513922028",
+    "ad_soyad": "ÖMER USTA",
+    "unvan": "DOĞALGAZ ACİL TEKNİKERİ",
+    "isyeri": "KARGAZ/ORTA",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 340,
+    "tc": "38347080744",
+    "ad_soyad": "ÖZGÜR KANTAR",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "KARGAZ/ÇERKEŞ",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 341,
+    "tc": "30808960992",
+    "ad_soyad": "ÖZGÜR ŞEKERCİ",
+    "unvan": "DEPO UZMANI",
+    "isyeri": "KARGAZ/KASTAMONU",
+    "bolum": "Satınalma Müdürlüğü",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 342,
+    "tc": "22603485190",
+    "ad_soyad": "ÖZGÜR YILMAZ",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "KARGAZ/GEREDE",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 343,
+    "tc": "45130479968",
+    "ad_soyad": "RAMAZAN DURSUN ÇEVEN",
+    "unvan": "DOĞALGAZ ACİL TEKNİKERİ",
+    "isyeri": "KARGAZ/KASTAMONU",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 344,
+    "tc": "24587701532",
+    "ad_soyad": "RAMAZAN ÖZKAN ",
+    "unvan": "DOĞALGAZ ACİL TEKNİKERİ",
+    "isyeri": "KARGAZ/KARABÜK",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 345,
+    "tc": "46231454076",
+    "ad_soyad": "RAMAZAN ÜZER",
+    "unvan": "ÖLÇÜM TEKNİKERİ",
+    "isyeri": "KARGAZ/TOSYA",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 346,
+    "tc": "34714208032",
+    "ad_soyad": "RECEP SERT",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "KARGAZ/KIZILIRMAK",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 347,
+    "tc": "59323199540",
+    "ad_soyad": "RIDVAN AYDIN",
+    "unvan": "OPERASYON YÖNETİCİSİ",
+    "isyeri": "KARGAZ/ÇANKIRI",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 348,
+    "tc": "17942791842",
+    "ad_soyad": "SALİH ÇİFOĞLU",
+    "unvan": "İÇ TESİSAT VE PROJE KONTROL MÜHENDİSİ",
+    "isyeri": "KARGAZ/ÇANKIRI",
+    "bolum": "İç Tesisat ve Proje Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 349,
+    "tc": "73843059818",
+    "ad_soyad": "SAMET AKSOY",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "KARGAZ/SAFRANBOLU",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 350,
+    "tc": "25181680742",
+    "ad_soyad": "SAMET FURKAN KISAR",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "KARGAZ/ESKİPAZAR",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 351,
+    "tc": "15626465904",
+    "ad_soyad": "SATİYE ARSLAN",
+    "unvan": "İKRAM PERSONELİ",
+    "isyeri": "KARGAZ/KASTAMONU",
+    "bolum": "Kastamonu İl Müdürlüğü",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 352,
+    "tc": "27139492940",
+    "ad_soyad": "SEHER BAŞARAN",
+    "unvan": "SATIŞ UZMAN YARDIMCISI",
+    "isyeri": "KARGAZ/ÇORUM",
+    "bolum": "Müşteri Deneyimi & Satış ve Pazarlama Müdürlüğü",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 353,
+    "tc": "33640871754",
+    "ad_soyad": "SELÇUK ASLIM",
+    "unvan": "DOĞALGAZ ACİL TEKNİKERİ",
+    "isyeri": "KARGAZ/TOSYA",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 354,
+    "tc": "61015486258",
+    "ad_soyad": "SELÇUK GÖKSU",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "KARGAZ/ÇERKEŞ",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 355,
+    "tc": "36940748764",
+    "ad_soyad": "SELÇUK SAVCI",
+    "unvan": "BAKIM TEKNİKERİ",
+    "isyeri": "KARGAZ/KARABÜK",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 356,
+    "tc": "21484646140",
+    "ad_soyad": "SERDAR KAYA",
+    "unvan": "BAKIM TEKNİKERİ",
+    "isyeri": "KARGAZ/ILGAZ",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 357,
+    "tc": "40213027616",
+    "ad_soyad": "SERKAN KANTAR",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "KARGAZ/ATKARACALAR ",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 358,
+    "tc": "11618592542",
+    "ad_soyad": "SİNAN ÇAY",
+    "unvan": "BAKIM TEKNİSYENİ",
+    "isyeri": "KARGAZ/KARABÜK",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 359,
+    "tc": "21991633138",
+    "ad_soyad": "ŞABAN KARABULUT",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "KARGAZ/KORGUN",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 360,
+    "tc": "19106346998",
+    "ad_soyad": "ŞAFAK AKKAYA",
+    "unvan": "ÖLÇÜM TEKNİKERİ",
+    "isyeri": "KARGAZ/KASTAMONU",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 361,
+    "tc": "45262479492",
+    "ad_soyad": "ŞENOL KETEN",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "KARGAZ/KASTAMONU",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 362,
+    "tc": "26527485694",
+    "ad_soyad": "TURGAY ÖZKAN",
+    "unvan": "BAKIM TEKNİSYENİ",
+    "isyeri": "KARGAZ/ÇANKIRI",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 363,
+    "tc": "63568404376",
+    "ad_soyad": "UĞUR ÇAVUŞOĞLU",
+    "unvan": "İÇ TESİSAT VE PROJE KONTROL MÜHENDİSİ",
+    "isyeri": "KARGAZ/KARABÜK",
+    "bolum": "İç Tesisat ve Proje Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 364,
+    "tc": "17275801348",
+    "ad_soyad": "UĞUR KARSAVURAN",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "KARGAZ/ÇANKIRI",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 365,
+    "tc": "11361141424",
+    "ad_soyad": "ÜMİT ERCOŞKUN",
+    "unvan": "DOĞALGAZ ACİL TEKNİKERİ",
+    "isyeri": "KARGAZ/SAFRANBOLU",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 366,
+    "tc": "15856837632",
+    "ad_soyad": "ÜMİT KAYHAN",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "KARGAZ/KORGUN",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 367,
+    "tc": "30049236030",
+    "ad_soyad": "ÜNAL ÇAKIR",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "KARGAZ/KARABÜK",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 368,
+    "tc": "40192642480",
+    "ad_soyad": "VOLKAN CİVRİZ",
+    "unvan": "DOĞALGAZ ACİL TEKNİKERİ",
+    "isyeri": "KARGAZ/DEVREKANİ",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 369,
+    "tc": "18724374130",
+    "ad_soyad": "YASİN KARAKAYA",
+    "unvan": "BAKIM TEKNİKERİ",
+    "isyeri": "KARGAZ/KASTAMONU",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 370,
+    "tc": "37555105270",
+    "ad_soyad": "YASİN USLU",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "KARGAZ/ORTA",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 371,
+    "tc": "40954623306",
+    "ad_soyad": "YAVUZHAN ÇAMCI",
+    "unvan": "DOĞALGAZ ACİL TEKNİKERİ",
+    "isyeri": "KARGAZ/DEVREKANİ",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 372,
+    "tc": "27766442110",
+    "ad_soyad": "YİĞİTCAN BAŞPINAR",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "KARGAZ/ÇERKEŞ",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 373,
+    "tc": "25180527000",
+    "ad_soyad": "YUNUS ATMACA",
+    "unvan": "DOĞALGAZ ACİL TEKNİKERİ",
+    "isyeri": "KARGAZ/ÇANKIRI",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 374,
+    "tc": "17869779442",
+    "ad_soyad": "YUNUS EMRE KURTOĞLU",
+    "unvan": "DOĞALGAZ ACİL TEKNİKERİ",
+    "isyeri": "KARGAZ/ŞABANÖZÜ",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 375,
+    "tc": "46078985276",
+    "ad_soyad": "YUNUS EMRE PINARBAŞI",
+    "unvan": "BAKIM TEKNİSYENİ",
+    "isyeri": "KARGAZ/KARABÜK",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 376,
+    "tc": "10480888692",
+    "ad_soyad": "YUSUF DEMİRAL",
+    "unvan": "DOĞALGAZ ACİL TEKNİKERİ",
+    "isyeri": "KARGAZ/GEREDE",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 377,
+    "tc": "40744004452",
+    "ad_soyad": "YUSUF TONBUL",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "KARGAZ/ILGAZ",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 378,
+    "tc": "26437357456",
+    "ad_soyad": "ADNAN ATALAY",
+    "unvan": "DOĞALGAZ ACİL BAŞTEKNİKERİ",
+    "isyeri": "KARGAZ/GEREDE",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 379,
+    "tc": "11773964468",
+    "ad_soyad": "BÜNYAMİN ÖNGEL",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "KARGAZ/ÇERKEŞ",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 380,
+    "tc": "12880936850",
+    "ad_soyad": "EMRE AKÇAY",
+    "unvan": "İÇ TESİSAT VE PROJE KONTROL MÜHENDİSİ",
+    "isyeri": "KARGAZ/ÇANKIRI",
+    "bolum": "İç Tesisat ve Proje Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 381,
+    "tc": "40522011870",
+    "ad_soyad": "ERDEM ÇİÇEK",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "KARGAZ/ILGAZ",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 382,
+    "tc": "13009804364",
+    "ad_soyad": "ERKAN NARİN",
+    "unvan": "İÇ TESİSAT VE PROJE KONTROL MÜHENDİSİ",
+    "isyeri": "KARGAZ/KARABÜK ",
+    "bolum": "İç Tesisat ve Proje Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 383,
+    "tc": "37141131652",
+    "ad_soyad": "HAKAN CEYLAN",
+    "unvan": "YAPIM KONTROL TEKNİSYENİ",
+    "isyeri": "KARGAZ/ÇANKIRI",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 384,
+    "tc": "31174330204",
+    "ad_soyad": "İHSAN KÖPRÜLÜ",
+    "unvan": "DOĞALGAZ ACİL TEKNİKERİ",
+    "isyeri": "KARGAZ/ÇANKIRI",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 385,
+    "tc": "46162442302",
+    "ad_soyad": "MEHMET ALİ TİRYAKİ",
+    "unvan": "YAPIM KONTROL TEKNİSYENİ",
+    "isyeri": "KARGAZ/KASTAMONU",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 386,
+    "tc": "30481979304",
+    "ad_soyad": "METİN KAPCI",
+    "unvan": "DOĞALGAZ ACİL TEKNİKERİ",
+    "isyeri": "KARGAZ/TOSYA ",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 387,
+    "tc": "50890292016",
+    "ad_soyad": "MUSTAFA TAYYAR TAŞCIOĞLU",
+    "unvan": "OPERASYON MÜHENDİSİ",
+    "isyeri": "KARGAZ/KASTAMONU",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 388,
+    "tc": "59704531082",
+    "ad_soyad": "MUZAFFER DEMİREL",
+    "unvan": "BAKIM BAŞTEKNİSYENİ",
+    "isyeri": "KARGAZ/KARABÜK ",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 389,
+    "tc": "17842772996",
+    "ad_soyad": "SATILMIŞ KAYA",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "KARGAZ/KURŞUNLU ",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 390,
+    "tc": "28240449564",
+    "ad_soyad": "UTKU UZUNOĞLU",
+    "unvan": "ETÜD PROJE VE CBS MÜHENDİSİ",
+    "isyeri": "KARGAZ/KASTAMONU",
+    "bolum": "Etüd Proje ve CBS Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 391,
+    "tc": "52141243372",
+    "ad_soyad": "MUHAMMED HÜSEYİN YİĞİT",
+    "unvan": "DOĞALGAZ ACİL TEKNİKERİ",
+    "isyeri": "KARGAZ/KASTAMONU",
+    "bolum": "Operasyon Birimi",
+    "sirket": "KARGAZ"
+  },
+  {
+    "id": 392,
+    "tc": "16106907976",
+    "ad_soyad": "ABDULLAH ALATAŞ",
+    "unvan": "İÇ TESİSAT VE PROJE KONTROL UZMANI",
+    "isyeri": "SÜRMELİGAZ/YOZGAT",
+    "bolum": "İç Tesisat ve Proje Birimi",
+    "sirket": "SÜRMELİGAZ"
+  },
+  {
+    "id": 393,
+    "tc": "48943364124",
+    "ad_soyad": "AFŞİN ŞAHİN",
+    "unvan": "OPERASYON YÖNETİCİSİ",
+    "isyeri": "SÜRMELİGAZ/YOZGAT",
+    "bolum": "Operasyon Birimi",
+    "sirket": "SÜRMELİGAZ"
+  },
+  {
+    "id": 394,
+    "tc": "15134940962",
+    "ad_soyad": "AHMET KARACA",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "SÜRMELİGAZ/YOZGAT",
+    "bolum": "Operasyon Birimi",
+    "sirket": "SÜRMELİGAZ"
+  },
+  {
+    "id": 395,
+    "tc": "23957653112",
+    "ad_soyad": "ALAATTİN ÖZTÜRK",
+    "unvan": "SCADA TEKNİKERİ",
+    "isyeri": "SÜRMELİGAZ/YOZGAT",
+    "bolum": "Scada Müdürlüğü",
+    "sirket": "SÜRMELİGAZ"
+  },
+  {
+    "id": 396,
+    "tc": "45844913222",
+    "ad_soyad": "ALİ KEMAL KAYA",
+    "unvan": "ÖLÇÜM TEKNİKERİ",
+    "isyeri": "SÜRMELİGAZ/SORGUN",
+    "bolum": "Operasyon Birimi",
+    "sirket": "SÜRMELİGAZ"
+  },
+  {
+    "id": 397,
+    "tc": "33593320132",
+    "ad_soyad": "ALPEREN   GÜZEL",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "SÜRMELİGAZ/AKDAĞMADENİ ",
+    "bolum": "Operasyon Birimi",
+    "sirket": "SÜRMELİGAZ"
+  },
+  {
+    "id": 398,
+    "tc": "16343900006",
+    "ad_soyad": "ASAF ÖMER ALTINOK",
+    "unvan": "DOĞALGAZ ACİL TEKNİKERİ",
+    "isyeri": "SÜRMELİGAZ/SORGUN",
+    "bolum": "Operasyon Birimi",
+    "sirket": "SÜRMELİGAZ"
+  },
+  {
+    "id": 399,
+    "tc": "11937055742",
+    "ad_soyad": "AZMİ ÜNLÜSOY",
+    "unvan": "DOĞALGAZ ACİL TEKNİKERİ",
+    "isyeri": "SÜRMELİGAZ/ŞEFAATLİ",
+    "bolum": "Operasyon Birimi",
+    "sirket": "SÜRMELİGAZ"
+  },
+  {
+    "id": 400,
+    "tc": "35558260026",
+    "ad_soyad": "CELALHAN KILIÇOĞLU",
+    "unvan": "DOĞALGAZ ACİL TEKNİKERİ",
+    "isyeri": "SÜRMELİGAZ/YOZGAT",
+    "bolum": "Operasyon Birimi",
+    "sirket": "SÜRMELİGAZ"
+  },
+  {
+    "id": 401,
+    "tc": "46780475898",
+    "ad_soyad": "DURSUN ARKAN",
+    "unvan": "DOĞALGAZ ACİL BAŞTEKNİKERİ",
+    "isyeri": "SÜRMELİGAZ/SORGUN",
+    "bolum": "Operasyon Birimi",
+    "sirket": "SÜRMELİGAZ"
+  },
+  {
+    "id": 402,
+    "tc": "33668317524",
+    "ad_soyad": "EKREM KAYA",
+    "unvan": "DOĞALGAZ ACİL TEKNİKERİ",
+    "isyeri": "SÜRMELİGAZ/AKDAĞMADENİ ",
+    "bolum": "Operasyon Birimi",
+    "sirket": "SÜRMELİGAZ"
+  },
+  {
+    "id": 403,
+    "tc": "31643391156",
+    "ad_soyad": "EMRAH DEMİREL",
+    "unvan": "İDARİ İŞLER VE İK UZMANI",
+    "isyeri": "SÜRMELİGAZ/YOZGAT",
+    "bolum": "Yozgat İl Müdürlüğü",
+    "sirket": "SÜRMELİGAZ"
+  },
+  {
+    "id": 404,
+    "tc": "65335200914",
+    "ad_soyad": "ERCAN ÇANKAY",
+    "unvan": "İÇ TESİSAT VE PROJE KONTROL MÜHENDİSİ",
+    "isyeri": "SÜRMELİGAZ/YOZGAT",
+    "bolum": "İç Tesisat ve Proje Birimi",
+    "sirket": "SÜRMELİGAZ"
+  },
+  {
+    "id": 405,
+    "tc": "73141008082",
+    "ad_soyad": "ERDEM ÇETİNKAYA",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "SÜRMELİGAZ/SARAYKENT",
+    "bolum": "Operasyon Birimi",
+    "sirket": "SÜRMELİGAZ"
+  },
+  {
+    "id": 406,
+    "tc": "50350772492",
+    "ad_soyad": "FATİH ÖZDEN",
+    "unvan": "DOĞALGAZ ACİL BAŞTEKNİKERİ",
+    "isyeri": "SÜRMELİGAZ/YOZGAT",
+    "bolum": "Operasyon Birimi",
+    "sirket": "SÜRMELİGAZ"
+  },
+  {
+    "id": 407,
+    "tc": "16238912596",
+    "ad_soyad": "FATİH YILMAZ",
+    "unvan": "DOĞALGAZ ACİL TEKNİKERİ",
+    "isyeri": "SÜRMELİGAZ/YERKÖY",
+    "bolum": "Operasyon Birimi",
+    "sirket": "SÜRMELİGAZ"
+  },
+  {
+    "id": 408,
+    "tc": "35971996380",
+    "ad_soyad": "FURKAN İYİOL",
+    "unvan": "DOĞALGAZ ACİL TEKNİKERİ",
+    "isyeri": "SÜRMELİGAZ/ÇEKEREK",
+    "bolum": "Operasyon Birimi",
+    "sirket": "SÜRMELİGAZ"
+  },
+  {
+    "id": 409,
+    "tc": "37490195312",
+    "ad_soyad": "GÖKHAN YÜCEL",
+    "unvan": "DOĞALGAZ ACİL TEKNİKERİ",
+    "isyeri": "SÜRMELİGAZ/BOĞAZLIYAN",
+    "bolum": "Operasyon Birimi",
+    "sirket": "SÜRMELİGAZ"
+  },
+  {
+    "id": 410,
+    "tc": "38135174990",
+    "ad_soyad": "HAKAN DOĞAN",
+    "unvan": "İDARİ İŞLER UZMAN YARDIMCISI",
+    "isyeri": "SÜRMELİGAZ/YOZGAT",
+    "bolum": "Yozgat İl Müdürlüğü",
+    "sirket": "SÜRMELİGAZ"
+  },
+  {
+    "id": 411,
+    "tc": "22076299782",
+    "ad_soyad": "HAMDİ PEKÖZ",
+    "unvan": "ÖLÇÜM TEKNİKERİ",
+    "isyeri": "SÜRMELİGAZ/YERKÖY",
+    "bolum": "Operasyon Birimi",
+    "sirket": "SÜRMELİGAZ"
+  },
+  {
+    "id": 412,
+    "tc": "59605452714",
+    "ad_soyad": "HAMZA ŞAHİN",
+    "unvan": "BAKIM BAŞTEKNİKERİ",
+    "isyeri": "SÜRMELİGAZ/YOZGAT",
+    "bolum": "Operasyon Birimi",
+    "sirket": "SÜRMELİGAZ"
+  },
+  {
+    "id": 413,
+    "tc": "12606031234",
+    "ad_soyad": "İHSAN SALMAN",
+    "unvan": "YOZGAT İL MÜDÜRÜ",
+    "isyeri": "SÜRMELİGAZ/YOZGAT",
+    "bolum": "Operasyonlar ve Yatırımlar Genel Müdür Yardımcılığı",
+    "sirket": "SÜRMELİGAZ"
+  },
+  {
+    "id": 414,
+    "tc": "24590007782",
+    "ad_soyad": "İLHAMİ TORUN",
+    "unvan": "İKRAM PERSONELİ",
+    "isyeri": "SÜRMELİGAZ/YOZGAT",
+    "bolum": "Yozgat İl Müdürlüğü",
+    "sirket": "SÜRMELİGAZ"
+  },
+  {
+    "id": 415,
+    "tc": "48670822928",
+    "ad_soyad": "İLYAS KALABALIK",
+    "unvan": "MÜŞTERİ DENEYİMİ VE SATIŞ YÖNETİCİSİ",
+    "isyeri": "SÜRMELİGAZ/YOZGAT",
+    "bolum": "Müşteri Deneyimi & Satış ve Pazarlama Müdürlüğü",
+    "sirket": "SÜRMELİGAZ"
+  },
+  {
+    "id": 416,
+    "tc": "18503837016",
+    "ad_soyad": "İSA ŞAHİN",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "SÜRMELİGAZ/YERKÖY",
+    "bolum": "Operasyon Birimi",
+    "sirket": "SÜRMELİGAZ"
+  },
+  {
+    "id": 417,
+    "tc": "28295510608",
+    "ad_soyad": "KAAN CIRIK",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "SÜRMELİGAZ/ŞEFAATLİ",
+    "bolum": "Operasyon Birimi",
+    "sirket": "SÜRMELİGAZ"
+  },
+  {
+    "id": 418,
+    "tc": "45757925510",
+    "ad_soyad": "KADİR TEKİN",
+    "unvan": "DOĞALGAZ ACİL TEKNİKERİ",
+    "isyeri": "SÜRMELİGAZ/YOZGAT",
+    "bolum": "Operasyon Birimi",
+    "sirket": "SÜRMELİGAZ"
+  },
+  {
+    "id": 419,
+    "tc": "26867545508",
+    "ad_soyad": "LEVENT MAYDA",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "SÜRMELİGAZ/BOĞAZLIYAN",
+    "bolum": "Operasyon Birimi",
+    "sirket": "SÜRMELİGAZ"
+  },
+  {
+    "id": 420,
+    "tc": "12875949230",
+    "ad_soyad": "LEVENT OK",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "SÜRMELİGAZ/SARIKAYA",
+    "bolum": "Operasyon Birimi",
+    "sirket": "SÜRMELİGAZ"
+  },
+  {
+    "id": 421,
+    "tc": "53680656470",
+    "ad_soyad": "MAHMUT GÜLER",
+    "unvan": "DOĞALGAZ ACİL TEKNİKERİ",
+    "isyeri": "SÜRMELİGAZ/YOZGAT",
+    "bolum": "Operasyon Birimi",
+    "sirket": "SÜRMELİGAZ"
+  },
+  {
+    "id": 422,
+    "tc": "50620761850",
+    "ad_soyad": "MAHMUT YORULMAZ",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "SÜRMELİGAZ/SARIKAYA",
+    "bolum": "Operasyon Birimi",
+    "sirket": "SÜRMELİGAZ"
+  },
+  {
+    "id": 423,
+    "tc": "27410532228",
+    "ad_soyad": "MEHMET ALİ YALÇIN",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "SÜRMELİGAZ/AKDAĞMADENİ ",
+    "bolum": "Operasyon Birimi",
+    "sirket": "SÜRMELİGAZ"
+  },
+  {
+    "id": 424,
+    "tc": "57910514608",
+    "ad_soyad": "MEHMET BİLGİN",
+    "unvan": "BAKIM TEKNİSYENİ",
+    "isyeri": "SÜRMELİGAZ/YOZGAT",
+    "bolum": "Operasyon Birimi",
+    "sirket": "SÜRMELİGAZ"
+  },
+  {
+    "id": 425,
+    "tc": "33535279580",
+    "ad_soyad": "Mehmet Galip HABOĞLU",
+    "unvan": "GENEL MÜDÜR YARDIMCISI (Mali İşler& Müşteri Deneyimi)",
+    "isyeri": "SÜRMELİGAZ/ÇORUM",
+    "bolum": "Genel Müdürlük",
+    "sirket": "SÜRMELİGAZ"
+  },
+  {
+    "id": 426,
+    "tc": "70627099640",
+    "ad_soyad": "MEHMET GENÇASLAN",
+    "unvan": "DOĞALGAZ ACİL TEKNİKERİ",
+    "isyeri": "SÜRMELİGAZ/ŞEFAATLİ",
+    "bolum": "Operasyon Birimi",
+    "sirket": "SÜRMELİGAZ"
+  },
+  {
+    "id": 427,
+    "tc": "61030414830",
+    "ad_soyad": "MEHMET ÖZDEMİR",
+    "unvan": "DOĞALGAZ ACİL TEKNİKERİ",
+    "isyeri": "SÜRMELİGAZ/SARIKAYA",
+    "bolum": "Operasyon Birimi",
+    "sirket": "SÜRMELİGAZ"
+  },
+  {
+    "id": 428,
+    "tc": "24845367234",
+    "ad_soyad": "MEHMET PARILTI",
+    "unvan": "BAKIM TEKNİKERİ",
+    "isyeri": "SÜRMELİGAZ/SORGUN",
+    "bolum": "Operasyon Birimi",
+    "sirket": "SÜRMELİGAZ"
+  },
+  {
+    "id": 429,
+    "tc": "13898986158",
+    "ad_soyad": "MUHAMMED BAĞCI",
+    "unvan": "DOĞALGAZ ACİL TEKNİKERİ",
+    "isyeri": "SÜRMELİGAZ/SARIKAYA",
+    "bolum": "Operasyon Birimi",
+    "sirket": "SÜRMELİGAZ"
+  },
+  {
+    "id": 430,
+    "tc": "42893019714",
+    "ad_soyad": "MUHAMMET ALİ YİĞİT",
+    "unvan": "DOĞALGAZ ACİL TEKNİKERİ",
+    "isyeri": "SÜRMELİGAZ/SARIKAYA",
+    "bolum": "Operasyon Birimi",
+    "sirket": "SÜRMELİGAZ"
+  },
+  {
+    "id": 431,
+    "tc": "42611031288",
+    "ad_soyad": "MURAT CANER",
+    "unvan": "BAKIM TEKNİKERİ",
+    "isyeri": "SÜRMELİGAZ/SORGUN",
+    "bolum": "Operasyon Birimi",
+    "sirket": "SÜRMELİGAZ"
+  },
+  {
+    "id": 432,
+    "tc": "10644085356",
+    "ad_soyad": "MURAT DIVRAK",
+    "unvan": "DOĞALGAZ ACİL BAŞTEKNİSYENİ",
+    "isyeri": "SÜRMELİGAZ/AKDAĞMADENİ ",
+    "bolum": "Operasyon Birimi",
+    "sirket": "SÜRMELİGAZ"
+  },
+  {
+    "id": 433,
+    "tc": "67516195392",
+    "ad_soyad": "MURAT ŞAHİN",
+    "unvan": "DOĞALGAZ ACİL TEKNİKERİ",
+    "isyeri": "SÜRMELİGAZ/YOZGAT",
+    "bolum": "Operasyon Birimi",
+    "sirket": "SÜRMELİGAZ"
+  },
+  {
+    "id": 434,
+    "tc": "18197842808",
+    "ad_soyad": "MUSA KORKUNÇ",
+    "unvan": "DOĞALGAZ ACİL BAŞTEKNİKERİ",
+    "isyeri": "SÜRMELİGAZ/SARIKAYA",
+    "bolum": "Operasyon Birimi",
+    "sirket": "SÜRMELİGAZ"
+  },
+  {
+    "id": 435,
+    "tc": "32447364384",
+    "ad_soyad": "MUSTAFA DEMİR",
+    "unvan": "DOĞALGAZ ACİL TEKNİKERİ",
+    "isyeri": "SÜRMELİGAZ/YOZGAT",
+    "bolum": "Operasyon Birimi",
+    "sirket": "SÜRMELİGAZ"
+  },
+  {
+    "id": 436,
+    "tc": "19703794628",
+    "ad_soyad": "MUSTAFA MURAT",
+    "unvan": "MÜŞTERİ DENEYİMİ UZMANI",
+    "isyeri": "SÜRMELİGAZ/SORGUN",
+    "bolum": "Müşteri Deneyimi & Satış ve Pazarlama Müdürlüğü",
+    "sirket": "SÜRMELİGAZ"
+  },
+  {
+    "id": 437,
+    "tc": "53515670114",
+    "ad_soyad": "MUSTAFA NAS",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "SÜRMELİGAZ/ŞEFAATLİ",
+    "bolum": "Operasyon Birimi",
+    "sirket": "SÜRMELİGAZ"
+  },
+  {
+    "id": 438,
+    "tc": "26609552566",
+    "ad_soyad": "NİYAZİ FIRAT ALTAŞ",
+    "unvan": "DOĞALGAZ ACİL TEKNİKERİ",
+    "isyeri": "SÜRMELİGAZ/AKDAĞMADENİ ",
+    "bolum": "Operasyon Birimi",
+    "sirket": "SÜRMELİGAZ"
+  },
+  {
+    "id": 439,
+    "tc": "29882199244",
+    "ad_soyad": "OĞUZHAN VARLIK",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "SÜRMELİGAZ/ÇEKEREK",
+    "bolum": "Operasyon Birimi",
+    "sirket": "SÜRMELİGAZ"
+  },
+  {
+    "id": 440,
+    "tc": "57214532414",
+    "ad_soyad": "ORHAN ÖZYURT",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "SÜRMELİGAZ/AKDAĞMADENİ ",
+    "bolum": "Operasyon Birimi",
+    "sirket": "SÜRMELİGAZ"
+  },
+  {
+    "id": 441,
+    "tc": "13979979598",
+    "ad_soyad": "ORHAN YÜKSEL",
+    "unvan": "MÜŞTERİ DENEYİMİ UZMANI",
+    "isyeri": "SÜRMELİGAZ/YOZGAT",
+    "bolum": "Müşteri Deneyimi & Satış ve Pazarlama Müdürlüğü",
+    "sirket": "SÜRMELİGAZ"
+  },
+  {
+    "id": 442,
+    "tc": "21104751742",
+    "ad_soyad": "OSMAN BAŞAK",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "SÜRMELİGAZ/YERKÖY",
+    "bolum": "Operasyon Birimi",
+    "sirket": "SÜRMELİGAZ"
+  },
+  {
+    "id": 443,
+    "tc": "20471768612",
+    "ad_soyad": "ÖZKAN ALDAŞ",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "SÜRMELİGAZ/SORGUN",
+    "bolum": "Operasyon Birimi",
+    "sirket": "SÜRMELİGAZ"
+  },
+  {
+    "id": 444,
+    "tc": "63778069310",
+    "ad_soyad": "SAMET ACUNER",
+    "unvan": "MÜŞTERİ DENEYİMİ UZMAN YARDIMCISI",
+    "isyeri": "SÜRMELİGAZ/SORGUN",
+    "bolum": "Müşteri Deneyimi & Satış ve Pazarlama Müdürlüğü",
+    "sirket": "SÜRMELİGAZ"
+  },
+  {
+    "id": 445,
+    "tc": "55066603764",
+    "ad_soyad": "SELİM KOÇAK ",
+    "unvan": "ÖLÇÜM TEKNİKERİ",
+    "isyeri": "SÜRMELİGAZ/BOĞAZLIYAN",
+    "bolum": "Operasyon Birimi",
+    "sirket": "SÜRMELİGAZ"
+  },
+  {
+    "id": 446,
+    "tc": "40511104972",
+    "ad_soyad": "SEYFULLAH ÖZBEK",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "SÜRMELİGAZ/YERKÖY",
+    "bolum": "Operasyon Birimi",
+    "sirket": "SÜRMELİGAZ"
+  },
+  {
+    "id": 447,
+    "tc": "14081982148",
+    "ad_soyad": "SİNAN EKİNCİ",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "SÜRMELİGAZ/SORGUN",
+    "bolum": "Operasyon Birimi",
+    "sirket": "SÜRMELİGAZ"
+  },
+  {
+    "id": 448,
+    "tc": "73591000612",
+    "ad_soyad": "SÜLEYMAN KARADAVUT",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "SÜRMELİGAZ/ŞEFAATLİ",
+    "bolum": "Operasyon Birimi",
+    "sirket": "SÜRMELİGAZ"
+  },
+  {
+    "id": 449,
+    "tc": "45616931072",
+    "ad_soyad": "ŞAKİR ÜNAL",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "SÜRMELİGAZ/SORGUN",
+    "bolum": "Operasyon Birimi",
+    "sirket": "SÜRMELİGAZ"
+  },
+  {
+    "id": 450,
+    "tc": "51424735078",
+    "ad_soyad": "ŞENOL YİĞİTER",
+    "unvan": "DOĞALGAZ ACİL TEKNİKERİ",
+    "isyeri": "SÜRMELİGAZ/BOĞAZLIYAN",
+    "bolum": "Operasyon Birimi",
+    "sirket": "SÜRMELİGAZ"
+  },
+  {
+    "id": 451,
+    "tc": "43717738156",
+    "ad_soyad": "ŞÜKRÜ DURAN",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "SÜRMELİGAZ/ÇEKEREK",
+    "bolum": "Operasyon Birimi",
+    "sirket": "SÜRMELİGAZ"
+  },
+  {
+    "id": 452,
+    "tc": "71329068040",
+    "ad_soyad": "UĞUR GÖNÜL",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "SÜRMELİGAZ/YOZGAT",
+    "bolum": "Operasyon Birimi",
+    "sirket": "SÜRMELİGAZ"
+  },
+  {
+    "id": 453,
+    "tc": "12541979806",
+    "ad_soyad": "YASİN DÖNGEL",
+    "unvan": "ŞOFÖR",
+    "isyeri": "SÜRMELİGAZ/ÇORUM",
+    "bolum": "İdari İşler-İK",
+    "sirket": "SÜRMELİGAZ"
+  },
+  {
+    "id": 454,
+    "tc": "15044534398",
+    "ad_soyad": "YASİN YILDIRIM",
+    "unvan": "DOĞALGAZ ACİL BAŞTEKNİKERİ",
+    "isyeri": "SÜRMELİGAZ/YERKÖY",
+    "bolum": "Operasyon Birimi",
+    "sirket": "SÜRMELİGAZ"
+  },
+  {
+    "id": 455,
+    "tc": "68155174052",
+    "ad_soyad": "YAŞAR TÜRKMEN",
+    "unvan": "ÖLÇÜM TEKNİKERİ",
+    "isyeri": "SÜRMELİGAZ/YOZGAT",
+    "bolum": "Operasyon Birimi",
+    "sirket": "SÜRMELİGAZ"
+  },
+  {
+    "id": 456,
+    "tc": "70165102888",
+    "ad_soyad": "YUNUS ATİK",
+    "unvan": "DOĞALGAZ ACİL TEKNİKERİ",
+    "isyeri": "SÜRMELİGAZ/BOĞAZLIYAN",
+    "bolum": "Operasyon Birimi",
+    "sirket": "SÜRMELİGAZ"
+  },
+  {
+    "id": 457,
+    "tc": "17117883310",
+    "ad_soyad": "YUSUF ASLAN",
+    "unvan": "DOĞALGAZ ACİL TEKNİKERİ",
+    "isyeri": "SÜRMELİGAZ/ŞEFAATLİ",
+    "bolum": "Operasyon Birimi",
+    "sirket": "SÜRMELİGAZ"
+  },
+  {
+    "id": 458,
+    "tc": "42256786932",
+    "ad_soyad": "YUSUF PUSMAZ",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "SÜRMELİGAZ/ÇEKEREK",
+    "bolum": "Operasyon Birimi",
+    "sirket": "SÜRMELİGAZ"
+  },
+  {
+    "id": 459,
+    "tc": "14471963702",
+    "ad_soyad": "ZEKİ GENÇER",
+    "unvan": "ÖLÇÜM TEKNİKERİ",
+    "isyeri": "SÜRMELİGAZ/YOZGAT",
+    "bolum": "Operasyon Birimi",
+    "sirket": "SÜRMELİGAZ"
+  },
+  {
+    "id": 460,
+    "tc": "37220204796",
+    "ad_soyad": "ABDULLAH SUNGUR",
+    "unvan": "YAPIM KONTROL TEKNİKERİ",
+    "isyeri": "SÜRMELİGAZ/YOZGAT ",
+    "bolum": "Operasyon Birimi",
+    "sirket": "SÜRMELİGAZ"
+  },
+  {
+    "id": 461,
+    "tc": "68833156448",
+    "ad_soyad": "ALİ KILINÇ",
+    "unvan": "OPERASYON MÜHENDİSİ",
+    "isyeri": "SÜRMELİGAZ/YOZGAT ",
+    "bolum": "Operasyon Birimi",
+    "sirket": "SÜRMELİGAZ"
+  },
+  {
+    "id": 462,
+    "tc": "60982413014",
+    "ad_soyad": "BEKİR YILDIRIM",
+    "unvan": "ETÜD PROJE VE CBS MÜHENDİSİ",
+    "isyeri": "SÜRMELİGAZ/YOZGAT ",
+    "bolum": "Etüd Proje ve CBS Birimi",
+    "sirket": "SÜRMELİGAZ"
+  },
+  {
+    "id": 463,
+    "tc": "57973513594",
+    "ad_soyad": "FATİH DEMİRTAŞ",
+    "unvan": "DOĞALGAZ ACİL TEKNİKERİ",
+    "isyeri": "SÜRMELİGAZ/YERKÖY",
+    "bolum": "Operasyon Birimi",
+    "sirket": "SÜRMELİGAZ"
+  },
+  {
+    "id": 464,
+    "tc": "11127080820",
+    "ad_soyad": "KÜRŞAT ARSLAN",
+    "unvan": "DOĞALGAZ ACİL TEKNİSYENİ",
+    "isyeri": "SÜRMELİGAZ/SORGUN ",
+    "bolum": "Operasyon Birimi",
+    "sirket": "SÜRMELİGAZ"
+  },
+  {
+    "id": 465,
+    "tc": "42260040402",
+    "ad_soyad": "OĞUZ KELEŞ",
+    "unvan": "İÇ TESİSAT VE PROJE KONTROL MÜHENDİSİ",
+    "isyeri": "SÜRMELİGAZ/YOZGAT ",
+    "bolum": "İç Tesisat ve Proje Birimi",
+    "sirket": "SÜRMELİGAZ"
+  },
+  {
+    "id": 466,
+    "tc": "66262129958",
+    "ad_soyad": "SEFA SAKALLI ",
+    "unvan": "YAPIM KONTROL YÖNETİCİSİ",
+    "isyeri": "SÜRMELİGAZ/YOZGAT ",
+    "bolum": "Yapım Kontrol",
+    "sirket": "SÜRMELİGAZ"
+  },
+  {
+    "id": 467,
+    "tc": "62395361432",
+    "ad_soyad": "ZİYA MUTLU",
+    "unvan": "DOĞALGAZ ACİL BAŞTEKNİSYENİ",
+    "isyeri": "SÜRMELİGAZ/BOĞAZLIYAN ",
+    "bolum": "Operasyon Birimi",
+    "sirket": "SÜRMELİGAZ"
+  }
+]

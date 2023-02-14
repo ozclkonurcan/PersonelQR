@@ -1,0 +1,135 @@
+﻿@{
+    ViewBag.Title = "personelEkle";
+}
+
+@*<div class="row no-gutters">
+    <div class="col-md-12">
+        <div class="navbar navbar-inverse bg-white navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header" style="height:140px">
+
+                    <img src="~/assets/img/cgLogo.png" alt="Corumgaz_logo" class="img-responsive">
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>*@
+<style>
+
+    @@media screen and (max-width: 600px) {
+  #kekw {
+   display:none;
+  }
+}
+
+</style>
+
+<div class="card card-custom mt-10">
+        
+    <div class="card-body" style="min-height:90vh">
+       @* <button class="btn btn-sm btn-danger float-right mt-2 mr-2" onclick="window.location.href ='@Url.Action("Index", "Personel")'" style="position:absolute;top:0;right:0;">Personel ekleme işlemini iptal et</button>*@
+        <a href="@Url.Action("Logout", "personel")" class="btn btn-sm btn-danger mt-2 mr-2" style="position:absolute;top:0;right:0">
+
+            <button class="btn btn-sm btn-light-danger disabled" disabled>@Session["kullaniciAdi"]</button>
+            Çıkış Yap
+        </a>
+
+        <h4>Personel Ekleme</h4>
+        <img src="~/assets/img/leaf.png" id="kekw" height="500" width="500" style="position:absolute;top:50%;left:50%;transform:translate(-50%,-50%); opacity:0.6 " />
+        <form method="post" action="@Url.Action("Print", "Personel")">
+            @Html.AntiForgeryToken()
+            <div class='repeater h-100'>
+                <div data-repeater-list>
+                    <!--begin::Wrapper-->
+                    <div data-repeater-item>
+                        <div class="offcanvas-wrapper mb-5 scroll-pull scroll ps ps--active-y" style="height: 109px; overflow: hidden;">
+                            <div class="row">
+                                <div class="col-sm-2">
+                                    <div class="form-group">
+                                        <label class="col-md-12 col-form-label">Personel TC No :</label>
+                                        <input class="form-control form-control-sm form-control-solid" required autocomplete="off" type="text" pattern="[0-9]+" title="sadece numara girilir" maxlength="11" name="tc" placeholder="Personel TC No" />
+                                    </div>
+                                </div>
+                                <div class="col-sm-2">
+                                    <div class="form-group">
+                                        <label class="col-md-12 col-form-label">Personel Adı :</label>
+                                        <input class="form-control form-control-sm form-control-solid" maxlength="40" type="text" required name="ad_soyad" placeholder="Personel Ad" />
+                                    </div>
+                                </div>
+                                <div class="col-sm-2">
+                                    <div class="form-group">
+                                        <label class="col-md-12 col-form-label">Ünvan Adı :</label>
+                                        <input class="form-control form-control-sm form-control-solid" required name="unvan" placeholder="Ünva Ad" />
+                                    </div>
+                                </div>
+                                <div class="col-sm-2">
+                                    <div class="form-group">
+                                        <label class="col-md-12 col-form-label">Şirket Adı :</label>
+                                        <input class="form-control form-control-sm form-control-solid" required name="isyeri" placeholder="Şirket Ad" />
+                                    </div>
+                                </div>
+                                <div class="col-sm-2">
+                                    <div class="form-group">
+                                        <label class="col-md-12 col-form-label">Bölüm Adı :</label>
+                                        <input class="form-control form-control-sm form-control-solid" required name="bolum" placeholder="Bölüm Ad" />
+                                    </div>
+                                </div>
+                                <div class="col-sm-2">
+                                    <div class="form-group">
+                                        <label class="col-md-12 col-form-label">İşyeri Adı :</label>
+                                        <input class="form-control form-control-sm form-control-solid" required name="sirket" placeholder="İşyeri Ad" />
+                                        <span data-repeater-delete class="btn btn-danger rounded-circle btn-sm btn-icon mr-4" style="position:absolute; top:0; right:0;">
+                                            <i class="ki ki-close icon-1x"></i>
+                                        </span>
+                                        @*<input data-repeater-delete type="button" class="btn btn-danger rounded-circle btn-sm mr-4" value="X" style="position:absolute; top:0; right:0;" />*@
+                                    </div>
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+                </div>
+                <!--end::Wrapper-->
+                <!--begin::Purchase-->
+                <div class="offcanvas-footer" kt-hidden-height="113" style="">
+
+                    <div class="text-right">
+                        <input data-repeater-create type="button" class="btn btn-success btn-sm" value="Yeni Personel Alanı" />
+                        <button type="submit" class="btn btn-sm btn-primary text-weight-bold">Personel Oluştur</button>
+                    </div>
+                </div>
+
+            </div>
+            <!--end::Purchase-->
+        </form>
+    </div>
+</div>
+
+
+    <script>
+
+        $(document).ready(function () {
+            $('.repeater').repeater({
+                initEmpty: false,
+                defaultValues: {
+                    'text-input': 'foo'
+                },
+                show: function () {
+                    $(this).slideDown();
+                },
+                hide: function (deleteElement) {
+                    //if (confirm('Are you sure you want to delete this element?')) {
+                    //    $(this).slideUp(deleteElement);
+                    //}
+                        $(this).slideUp(deleteElement);
+                },
+                ready: function (setIndexes) {
+                },
+                isFirstItemUndeletable: true
+            })
+        });
+
+    </script>
